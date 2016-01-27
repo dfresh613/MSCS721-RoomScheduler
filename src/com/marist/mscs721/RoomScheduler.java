@@ -6,16 +6,20 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class RoomScheduler {
 	protected static Scanner keyboard = new Scanner(System.in);
-
+	private static UserInputValidator validator = new UserInputValidator();
 	public static void main(String[] args) {
 		Boolean end = false;
 		ArrayList<Room> rooms = new ArrayList<Room>();
-
+		//sets the delimiter to be new line. S that we can support rooms with spaces as input and that the scanner won't treat the spaces as
+		//delimiters
+		keyboard.useDelimiter("\n");
 		while (!end) {
 			switch (mainMenu()) {
 
@@ -35,51 +39,75 @@ public class RoomScheduler {
 				System.out.println(listRooms(rooms));
 				break;
 			case 6:
-				getJsonForRoom(rooms);
+				getJsonForRooms(rooms);
+				break;
+			case 7:
+				importJsonForRooms(rooms);
+				break;
 			}
 
 		}
 
 	}
 	/**
+	 * Using jackson libraries imports the given json file as a room object and saves it to memory
+	 */
+	private static void importJsonForRooms(ArrayList<Room> roomList){
+		System.out.println("Please specify the absolute path of the json file location.");
+		System.out.println("NOTE: Importing data from json file will overwrite any existing data");
+
+		File jsonFile = new File(keyboard.next());
+		ArrayList<Room> roomListFromJson = new ArrayList<Room>();
+		//verify specified file exists
+		if(!jsonFile.exists() || !jsonFile.canRead()){
+			System.out.println("Invalid file specified, it will not be imported");
+			return;
+		}
+		ObjectMapper mapper = new ObjectMapper();
+		//Creates the ArrayList<Room> type for the object mapper to reference when reading json.
+		try {
+			//converts the json file to a ArrayList<Room> object. Had a little help from stackOverflow for this one.
+			roomListFromJson = mapper.readValue(jsonFile, mapper.getTypeFactory().constructCollectionType(ArrayList.class, Room.class));
+		} catch (JsonParseException e) {
+			System.out.println("This File was unable to be parsed as a json file, aborting");
+			return;
+		} catch (JsonMappingException e) {
+			System.out.println("This File was unable to Map to the Rooms List object");
+			return;
+		} catch (IOException e) {
+			System.out.println("Error reading file");
+			return;
+		}		
+		
+		//Now add the roomlist to the existing collection
+		roomList.addAll(roomListFromJson);
+		System.out.println("Rooms successfully imported!");
+		
+	}
+	/**
 	 * Using the jackson libraries, converts the room data into json. and prints it
 	 * @param obj
 	 */
-	private static void getJsonForRoom(ArrayList<Room> roomList){
+	private static void getJsonForRooms(ArrayList<Room> roomList){
 		ObjectMapper mapper = new ObjectMapper();
 		String jsonString = "";				
 		try {
 			//get the user directory location for writing the file to
-			System.out.println("Please enter directory for file location");
+			System.out.println("Please enter DIRECTORY for file location (file will be named roomSchedulerData.json)");
 			File dir = new File(keyboard.next());
 			jsonString = mapper.writeValueAsString(roomList);
-			mapper.writeValue(new File(dir.getAbsolutePath()+File.separator+"rooms.json"), roomList);
-			System.out.println("File written to: "+dir.getAbsolutePath()+File.separator+"rooms.json");
+			mapper.writeValue(new File(dir.getAbsolutePath()+File.separator+"roomSchedulerData.json"), roomList);
+			System.out.println("File written to: "+dir.getAbsolutePath()+File.separator+"roomSchedulerData.json");
 		} catch (JsonProcessingException e) {
 			System.out.println("There was an error retrieving json");
 		} catch (IOException e) {
 			System.out.println("Unable to write to the specified directory");
 		}
-		//TODO: output to file
+		System.out.println("Json As string:");
 		System.out.println(jsonString);
 		
 	}
 	
-	/**
-	 * Using jackson libraries, converts the schedule data into json. and prints it
-	 
-	private static void getJsonForMeetings(ArrayList<Room> roomList){
-		ObjectMapper mapper = new ObjectMapper();
-		ArrayList<Meeting> meetingList = new ArrayList<Meeting>;
-		String jsonString = "";
-		try {
-			jsonString = mapper.writeValueAsString(roomList);
-		} catch (JsonProcessingException e) {
-			System.out.println("There was an error retrieving json");
-		}
-		//TODO: output to file
-		System.out.println(jsonString);
-	}**/
 	/**
 	 * List the schedule for a given room
 	 * @param roomList
@@ -118,11 +146,13 @@ public class RoomScheduler {
 			System.out.println("  3 - Schedule a room");
 			System.out.println("  4 - List Schedule");
 			System.out.println("  5 - List Rooms");
-			System.out.println("  6 - Get Rooms as JSON");
+			System.out.println("  6 - Export Rooms as JSON");
+			System.out.println("  7 - Import Rooms from JSON");
 			System.out.println("Enter your selection: ");
 			String numStr = keyboard.next();
 			//validate that the user input is correct
-			if(UserInputValidator.validateUserInputIsInt(numStr,1,6)){
+			//In retrospect, it probably would have been better to just use the .next(pattern) method.
+			if(validator.validateUserInputIsInt(numStr,1,7)){
 				numInt = Integer.parseInt(numStr);
 				inputValidated=true;
 			}else{
@@ -147,7 +177,7 @@ public class RoomScheduler {
 		while(!inputValidated){
 			System.out.println("Room capacity?");
 			String capacityStr = keyboard.next();
-			if(UserInputValidator.validateUserInputIsInt(capacityStr,null,null)){
+			if(validator.validateUserInputIsInt(capacityStr,null,null)){
 				//now we know it's ok to parse the String to an int
 				capacity = Integer.parseInt(capacityStr);
 				inputValidated=true;
@@ -156,9 +186,14 @@ public class RoomScheduler {
 			}
 		}
 		Room newRoom = new Room(name, capacity);
-		roomList.add(newRoom);
+		//make sure the room doesn't already exist
+		if(getRoomFromName(roomList, newRoom.getName())==null){
+			roomList.add(newRoom);
+			return "Room '" + newRoom.getName() + "' added successfully!";
+		}else{
+			return "Room '"+newRoom.getName()+ "' already exists. It was not added";
+		}
 
-		return "Room '" + newRoom.getName() + "' added successfully!";
 	}
 
 	/**
@@ -218,10 +253,11 @@ public class RoomScheduler {
 				return "This room does not exist, it can not be scheduled";
 			}
 			//validate the user entered timestamp
+			//In retrospect, it probably would have been better to just use the .next(pattern) method.
 			while(!validateInput){
 				System.out.println("Start Date? (yyyy-mm-dd):");
 				startDate = keyboard.next();
-				validateInput = UserInputValidator.validateUserInputDate(startDate);				
+				validateInput = validator.validateUserInputDate(startDate);				
 			}
 			//reset validation for next inputs
 			validateInput=false;
@@ -229,25 +265,25 @@ public class RoomScheduler {
 			while(!validateInput){
 				System.out.println("Start Time? (HH:mm)");
 				startTime = keyboard.next();				
-				validateInput = UserInputValidator.validateUserInputTime(startTime);
+				validateInput = validator.validateUserInputTime(startTime);
 				startTime = startTime + ":00.0";
 			}			
-			
+			//In retrospect, it probably would have been better to just use the .next(pattern) method.
 			validateInput=false;
 			while(!validateInput){
 				System.out.println("End Date? (yyyy-mm-dd):");
 				endDate = keyboard.next();
-				validateInput = UserInputValidator.validateUserInputDate(endDate);				
+				validateInput = validator.validateUserInputDate(endDate);				
 
 			}
 			validateInput=false;
 			while(!validateInput){
 				System.out.println("End Time?  (HH:mm)");
 				endTime = keyboard.next();				
-				validateInput = UserInputValidator.validateUserInputTime(endTime);
+				validateInput = validator.validateUserInputTime(endTime);
 				endTime = endTime + ":00.0";
 			}
-	
+			
 			Timestamp startTimestamp = Timestamp.valueOf(startDate + " " + startTime);
 			Timestamp endTimestamp = Timestamp.valueOf(endDate + " " + endTime);
 	
@@ -256,10 +292,12 @@ public class RoomScheduler {
 	
 	
 			Meeting meeting = new Meeting(startTimestamp, endTimestamp, subject);
-	
-			curRoom.addMeeting(meeting);
-		
-		return "Successfully scheduled meeting!";
+			if(validator.validateNoMeetingConflicts(curRoom,meeting)){
+				curRoom.addMeeting(meeting);				
+				return "Successfully scheduled meeting!\n";
+			}else{		
+				return "Unable to schedule meeting\n";
+			}
 	}	
 	
 	/**

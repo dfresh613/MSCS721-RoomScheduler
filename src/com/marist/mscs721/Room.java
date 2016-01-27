@@ -14,6 +14,20 @@ public class Room {
 		setCapacity(newCapacity);
 		setMeetings(new ArrayList<Meeting>());
 	}
+	/**
+	 * Jackson json mapping requires a default constructor
+	 */
+	public Room(){				
+	}
+	/**
+	 * Constructor for including setting meetings. necessary for mapping json objs
+	 * @param newMeeting
+	 */
+	public Room(String newName, int newCapacity, ArrayList<Meeting> newMeetings){
+		this.name = newName;
+		this.capacity = newCapacity;
+		this.meetings = newMeetings;
+	}
 
 	public void addMeeting(Meeting newMeeting) {
 		this.getMeetings().add(newMeeting);

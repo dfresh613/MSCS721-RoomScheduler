@@ -8,6 +8,11 @@ public class Meeting {
 	private Timestamp stopTime = null;
 	private String subject = null;
 
+	/**
+	 * Jackson requires a default constructor
+	 */
+	public Meeting(){
+	}
 	
 	public Meeting(Timestamp newStartTime, Timestamp newEndTime, String newSubject) {
 		setStartTime(newStartTime);
