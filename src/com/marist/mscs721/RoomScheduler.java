@@ -80,6 +80,7 @@ public class RoomScheduler {
 		}		
 		
 		//Now add the roomlist to the existing collection
+		roomList.clear();
 		roomList.addAll(roomListFromJson);
 		System.out.println("Rooms successfully imported!");
 		
