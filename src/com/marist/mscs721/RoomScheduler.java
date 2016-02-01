@@ -241,10 +241,10 @@ public class RoomScheduler {
 	 */
 	protected static String scheduleRoom(ArrayList<Room> roomList) {
 		boolean validateInput = false;
-		String startDate = null;
-		String endDate = null;
-		String startTime = null;
-		String endTime = null;
+		String startDate = "";
+		String endDate = "";
+		String startTime = "";
+		String endTime = "";
 		//Defect #? all time/date validation was incorrect here.
 			//validate the user entered room
 			System.out.println("Schedule a room:");
@@ -254,36 +254,10 @@ public class RoomScheduler {
 				return "This room does not exist, it can not be scheduled";
 			}
 			//validate the user entered timestamp
-			//In retrospect, it probably would have been better to just use the .next(pattern) method.
-			while(!validateInput){
-				System.out.println("Start Date? (yyyy-mm-dd):");
-				startDate = keyboard.next();
-				validateInput = validator.validateUserInputDate(startDate);				
-			}
-			//reset validation for next inputs
-			validateInput=false;
-			//validate timestring
-			while(!validateInput){
-				System.out.println("Start Time? (HH:mm)");
-				startTime = keyboard.next();				
-				validateInput = validator.validateUserInputTime(startTime);
-				startTime = startTime + ":00.0";
-			}			
-			//In retrospect, it probably would have been better to just use the .next(pattern) method.
-			validateInput=false;
-			while(!validateInput){
-				System.out.println("End Date? (yyyy-mm-dd):");
-				endDate = keyboard.next();
-				validateInput = validator.validateUserInputDate(endDate);				
-
-			}
-			validateInput=false;
-			while(!validateInput){
-				System.out.println("End Time?  (HH:mm)");
-				endTime = keyboard.next();				
-				validateInput = validator.validateUserInputTime(endTime);
-				endTime = endTime + ":00.0";
-			}
+			startDate = getValidatedDate("Start Date? (yyyy-mm-dd):");
+			startTime = getValidatedTime("Start Time? (HH:mm)");
+			endDate = getValidatedDate("End Date? (yyyy-mm-dd):");
+			endTime = getValidatedTime("End Time? (HH:mm)");			
 			
 			Timestamp startTimestamp = Timestamp.valueOf(startDate + " " + startTime);
 			Timestamp endTimestamp = Timestamp.valueOf(endDate + " " + endTime);
@@ -300,7 +274,42 @@ public class RoomScheduler {
 				return "Unable to schedule meeting\n";
 			}
 	}	
+	/**
+	 * validate the user entered date
+	 * In retrospect, it probably would have been better to just use the .next(pattern) method.
+	 * @param requestString
+	 * @return date
+	 */
+	private static String getValidatedDate(String requestString){
+		//reset validation for next inputs
+		String date= "";
+		boolean validateInput=false;
+		//validate timestring
+		while(!validateInput){
+			System.out.println(requestString);
+			date = keyboard.next();				
+			validateInput = validator.validateUserInputDate(date);
+		}
+		return date;
+		
+	}
 	
+	/**
+	 * Gets validated time stamp
+	 * @param requestString
+	 * @return String timestamp
+	 */
+	private static String getValidatedTime(String requestString){
+		boolean validateInput=false;
+		String time = "";
+		while(!validateInput){
+			System.out.println(requestString);
+			time = keyboard.next();				
+			validateInput = validator.validateUserInputTime(time);
+			time = time + ":00.0";
+		}
+		return time;
+	}
 	/**
 	 * Get room from name, if specified room doesn't exist. will return null.
 	 * @param roomList
