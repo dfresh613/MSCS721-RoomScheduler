@@ -3,7 +3,6 @@ package com.marist.mscs721;
 
 
 import java.sql.Timestamp;
-import java.util.Date;
 
 /**
  * Input validation class providing methods for the various Roomscheduler validations that are necessary.

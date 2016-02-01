@@ -12,6 +12,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class RoomScheduler {
+	private static final String INPUT_SEPARATOR = "---------------------";
 	protected static Scanner keyboard = new Scanner(System.in);
 	private static UserInputValidator validator = new UserInputValidator();
 	public static void main(String[] args) {
@@ -123,7 +124,7 @@ public class RoomScheduler {
 			return "Room "+roomName+" does not exist. No schedule can be shown";
 		}
 		System.out.println(roomName + " Schedule");
-		System.out.println("---------------------");
+		System.out.println(INPUT_SEPARATOR);
 		for (Meeting m : meetingRoom.getMeetings()) {
 			System.out.println(m.toString());
 		}
@@ -223,13 +224,13 @@ public class RoomScheduler {
 	 */
 	protected static String listRooms(ArrayList<Room> roomList) {
 		System.out.println("Room Name - Capacity");
-		System.out.println("---------------------");
+		System.out.println(INPUT_SEPARATOR);
 
 		for (Room room : roomList) {
 			System.out.println(room.getName() + " - " + room.getCapacity());
 		}
 
-		System.out.println("---------------------");
+		System.out.println(INPUT_SEPARATOR);
 
 		return roomList.size() + " Room(s)";
 	}
@@ -240,7 +241,6 @@ public class RoomScheduler {
 	 * @return resultMessage
 	 */
 	protected static String scheduleRoom(ArrayList<Room> roomList) {
-		boolean validateInput = false;
 		String startDate = "";
 		String endDate = "";
 		String startTime = "";
