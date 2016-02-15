@@ -2,7 +2,19 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>RoomScheduler</groupId>
   <artifactId>RoomScheduler</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
+  <name>RoomScheduler</name>
+  <url>https://github.com/dfresh613/MSCS721-RoomScheduler</url>
+  <description>RoomScheduler is an application which enables you to create rooms specifying their capacity, create and schedule for meetings in these rooms, and list the rooms and meeting times.
+Newly added functionality for RoomScheduler includes functionality for exporting or importing data via json files, Validating user inputs, and time entries, as well as validating that there are no scheduling conflicts when a new meeting is created.</description>
+  <organization>
+  	<name>Douglas Rohde</name>
+  </organization>
+  <scm>
+  	<url>https://github.com/dfresh613/MSCS721-RoomScheduler</url>
+  	<connection>git</connection>
+  	<developerConnection>Douglas Rohde</developerConnection>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
