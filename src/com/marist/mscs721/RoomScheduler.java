@@ -151,7 +151,7 @@ public class RoomScheduler {
 			System.out.println("  6 - Export Rooms as JSON");
 			System.out.println("  7 - Import Rooms from JSON");
 			System.out.println("Enter your selection: ");
-			String numStr = keyboard.next();
+			String numStr = keyboard.next().trim();
 			//validate that the user input is correct
 			//In retrospect, it probably would have been better to just use the .next(pattern) method.
 			if(validator.validateUserInputIsInt(numStr,1,7)){
