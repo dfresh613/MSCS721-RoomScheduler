@@ -270,7 +270,13 @@ public class RoomScheduler {
 			if(validator.validateNoMeetingConflicts(curRoom,meeting)){
 				curRoom.addMeeting(meeting);				
 				return "Successfully scheduled meeting!\n";
-			}else{		
+			}else{
+				System.out.println("The following other rooms may be available: ");
+				for(Room room : roomList){
+					if(room != curRoom){
+						System.out.println(room.getName());
+					}
+				}
 				return "Unable to schedule meeting\n";
 			}
 	}	
