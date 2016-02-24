@@ -21,7 +21,7 @@ public class UserInputValidator {
 	 * @param input
 	 * @return boolean validated
 	 */
-	protected boolean validateUserInputIsInt(String input, Integer min, Integer max){		
+	public boolean validateUserInputIsInt(String input, Integer min, Integer max){		
 		Integer numInt = null;
 
 
@@ -57,7 +57,7 @@ public class UserInputValidator {
 	 * @param meeting
 	 * @return boolean Notconflicting
 	 */
-	protected boolean validateNoMeetingConflicts(Room room, Meeting meeting){
+	public boolean validateNoMeetingConflicts(Room room, Meeting meeting){
 		for (Meeting existingMeeting : room.getMeetings()){
 			Timestamp existingStartTime = existingMeeting.getStartTime();
 			Timestamp existingEndTime = existingMeeting.getStopTime();
@@ -112,7 +112,7 @@ public class UserInputValidator {
 	 * returns true if validated, false if not
 	 * @return boolean validated
 	 */
-	protected boolean validateUserInputDate(String timeStr){
+	public boolean validateUserInputDate(String timeStr){
 		//split timestamp by '-' parse each piece separately
 		String[] dateSplits = timeStr.split("-");
 		if(dateSplits.length!=3){
@@ -146,7 +146,7 @@ public class UserInputValidator {
 	 * validates hour 0-23 and minute 0-60
 	 * @return boolean timeValidated
 	 */
-	protected boolean validateUserInputTime(String timeStr){
+	public boolean validateUserInputTime(String timeStr){
 	   String[] timeSplits = timeStr.split(":");
 	   if(timeSplits.length != 2){
 			printTimeValidationError();

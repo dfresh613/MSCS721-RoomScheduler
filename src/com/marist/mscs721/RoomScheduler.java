@@ -136,7 +136,7 @@ public class RoomScheduler {
 	 * MainMenu method, Prompts user for selection, and will continue prompting if the selection is invalid
 	 * @return int selectionNum
 	 */
-	protected static int mainMenu() {
+	public static int mainMenu() {
 		//Defect fix #1. Continuously ask the user for input in the event the input isn't a valid selection
 		boolean inputValidated = false;
 		Integer numInt = 0;

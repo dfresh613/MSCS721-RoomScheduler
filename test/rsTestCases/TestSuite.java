@@ -6,7 +6,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
-@SuiteClasses({ CreateRoom.class })
-public class RoomSchedulerTestSuite {
+@SuiteClasses({ RoomTests.class, MeetingTests.class, InputTests.class })
+public class TestSuite {
 
 }
