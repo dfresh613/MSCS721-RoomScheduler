@@ -10,12 +10,9 @@ Newly added functionality for RoomScheduler includes functionality for exporting
   <organization>
   	<name>Douglas Rohde</name>
   </organization>
-  <scm>
-  	<url>https://github.com/dfresh613/MSCS721-RoomScheduler</url>
-  	<connection>git</connection>
-  	<developerConnection>Douglas Rohde</developerConnection>
-  </scm>
+
   <build>
+	<testSourceDirectory>test</testSourceDirectory>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -30,9 +27,19 @@ Newly added functionality for RoomScheduler includes functionality for exporting
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>2.19.1</version>
+          
         </plugin>
     </plugins>
   </build>
+  <reporting>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-report-plugin</artifactId>
+        <version>2.19.1</version>
+      </plugin>
+    </plugins>
+  </reporting>
   <dependencies>
   <dependency>
 	<groupId>junit</groupId>
