@@ -1,10 +1,16 @@
 package com.marist.mscs721;
 
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.Properties;
 import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -15,7 +21,9 @@ public class RoomScheduler {
 	private static final String INPUT_SEPARATOR = "---------------------";
 	protected static Scanner keyboard = new Scanner(System.in);
 	private static UserInputValidator validator = new UserInputValidator();
+	private static Logger logger = Logger.getLogger(RoomScheduler.class);
 	public static void main(String[] args) {
+		initializeLogging();
 		Boolean end = false;
 		ArrayList<Room> rooms = new ArrayList<Room>();
 		//sets the delimiter to be new line. S that we can support rooms with spaces as input and that the scanner won't treat the spaces as
@@ -50,6 +58,19 @@ public class RoomScheduler {
 		}
 
 	}
+	private static void initializeLogging(){
+		Properties props = new Properties();
+		try {
+			FileInputStream fis = new FileInputStream("configuration/log4.properties");
+			props.load(fis);
+			PropertyConfigurator.configure(props);
+		} catch (FileNotFoundException e) {
+			System.out.println("Unable to locate properties file");
+		} catch (IOException e) {
+			System.out.println("Error reading properties file");
+		}
+		
+	}
 	/**
 	 * Using jackson libraries imports the given json file as a room object and saves it to memory
 	 */
@@ -71,18 +92,25 @@ public class RoomScheduler {
 			roomListFromJson = mapper.readValue(jsonFile, mapper.getTypeFactory().constructCollectionType(ArrayList.class, Room.class));
 		} catch (JsonParseException e) {
 			System.out.println("This File was unable to be parsed as a json file, aborting");
+			logger.error("Error parsing Json File:");
+			logger.error(e, e.getCause());
 			return;
 		} catch (JsonMappingException e) {
 			System.out.println("This File was unable to Map to the Rooms List object");
+			logger.error("Error parsing Json File:");
+			logger.error(e, e.getCause());
 			return;
 		} catch (IOException e) {
 			System.out.println("Error reading file");
+			logger.error("Error parsing Json File:");
+			logger.error(e, e.getCause());
 			return;
 		}		
 		
 		//Now add the roomlist to the existing collection
 		roomList.clear();
 		roomList.addAll(roomListFromJson);
+		logger.info("imprted json file successfuly");
 		System.out.println("Rooms successfully imported!");
 		
 	}
@@ -102,8 +130,12 @@ public class RoomScheduler {
 			System.out.println("File written to: "+dir.getAbsolutePath()+File.separator+"roomSchedulerData.json");
 		} catch (JsonProcessingException e) {
 			System.out.println("There was an error retrieving json");
+			logger.error("Error creating JSON:");
+			logger.error(e, e.getCause());
 		} catch (IOException e) {
 			System.out.println("Unable to write to the specified directory");
+			logger.error("Error creating Json:");
+			logger.error(e, e.getCause());
 		}
 		System.out.println("Json As string:");
 		System.out.println(jsonString);

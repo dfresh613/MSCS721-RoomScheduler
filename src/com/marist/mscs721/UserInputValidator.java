@@ -4,13 +4,15 @@ package com.marist.mscs721;
 
 import java.sql.Timestamp;
 
+import org.apache.log4j.Logger;
+
 /**
  * Input validation class providing methods for the various Roomscheduler validations that are necessary.
  * @author derohde
  *
  */
 public class UserInputValidator {
-	
+	private static Logger logger = Logger.getLogger(UserInputValidator.class);
 	public UserInputValidator(){
 	}
 
@@ -22,6 +24,7 @@ public class UserInputValidator {
 	 * @return boolean validated
 	 */
 	public boolean validateUserInputIsInt(String input, Integer min, Integer max){		
+		logger.info("attempting to validate user input: "+input);
 		Integer numInt = null;
 
 
@@ -30,22 +33,31 @@ public class UserInputValidator {
 		try{
 			numInt = Integer.parseInt(input);
 	    //catch any number format exceptions if the given string isn't actually an integer
-		}catch(NumberFormatException e){			
+		}catch(NumberFormatException e){	
+			logger.warn("Unable to validate input: "+input+", exception ocurred");
+			logger.warn(e,e.getCause());
 			return false;
 		}
 		//validate that the selection is within acceptable range
 		if(min!= null){
 			moreThanMin = (numInt >= min);
+			logger.info("checking that input "+numInt +" is >= "+ min);
 		}else{
+			
 			moreThanMin=true;
 		}
 		
 		if(max!=null){
 			lessThanMax = (numInt <= max);
+			logger.info("checking that input "+numInt +" is <= "+ max);
 		}else{
 			lessThanMax=true;
 		}
-		
+		if(moreThanMin && lessThanMax){
+			logger.info("input validated");
+		}else{
+			logger.warn("input not in between min and max");
+		}
 		return (moreThanMin && lessThanMax);
 		
 		
@@ -58,6 +70,7 @@ public class UserInputValidator {
 	 * @return boolean Notconflicting
 	 */
 	public boolean validateNoMeetingConflicts(Room room, Meeting meeting){
+		logger.info("checking room conflicts for room: "+room+" and meeting: "+ meeting.getSubject());
 		for (Meeting existingMeeting : room.getMeetings()){
 			Timestamp existingStartTime = existingMeeting.getStartTime();
 			Timestamp existingEndTime = existingMeeting.getStopTime();
@@ -74,18 +87,21 @@ public class UserInputValidator {
 			//First lets make sure that the end time is after the start time
 			if(newEndTimeEpoch <= newStartTimeEpoch){
 				System.out.println("The end time must be after the start time");
+				logger.warn("user attempted to schedule a meeting with end time < startTime");
 				return false;
 			}
 			
 			//check that the start time is not in between existing meeting times 
 			if(newStartTimeEpoch >= existingStartTimeEpoch && newStartTimeEpoch <= existingEndTimeEpoch){
 				System.out.println("This meeting conflicts with an already scheduled meeting");
+				logger.warn(meeting.getSubject()+" meeting conflicts in room "+room);
 				return false;
 			}
 			
 			//check that the end time is not in between existing meeting times
 			if(newEndTimeEpoch >= existingStartTimeEpoch && newEndTimeEpoch <= existingEndTimeEpoch){
 				System.out.println("This meeting conflicts with an already scheduled meeting");
+				logger.warn(meeting.getSubject()+" meeting conflicts in room "+room);
 				return false;
 			}
 			
@@ -113,10 +129,12 @@ public class UserInputValidator {
 	 * @return boolean validated
 	 */
 	public boolean validateUserInputDate(String timeStr){
+		logger.info("Validating that user input is valid date "+timeStr);
 		//split timestamp by '-' parse each piece separately
 		String[] dateSplits = timeStr.split("-");
 		if(dateSplits.length!=3){
 			printDateValidationError();
+			logger.error("User entered date: "+timeStr+" not valid");
 			return false;
 		}
 		String year = dateSplits[0];
@@ -124,16 +142,21 @@ public class UserInputValidator {
 		String day = dateSplits[2];
 		//validate year is between 2016 and 2030
 		if(!validateUserInputIsInt(year, 2016,2030)){
+			logger.error("User entered date: "+timeStr+" not in correct year range");
 			printDateValidationError();
 			return false;
 		}
 		//validate month is between 1 and 12
 		if(!validateUserInputIsInt(month, 1,12)){
+			logger.error("User entered date: "+timeStr+" not in correct month range");
+
 			printDateValidationError();
 			return false;
 		}
 		//validates day is between 1 and 31
 		if(!validateUserInputIsInt(day,1,31)){
+			logger.error("User entered date: "+timeStr+" not in correct day range");
+
 			printDateValidationError();
 			return false;
 		}
@@ -147,6 +170,7 @@ public class UserInputValidator {
 	 * @return boolean timeValidated
 	 */
 	public boolean validateUserInputTime(String timeStr){
+		logger.info("validating user input time of :"+ timeStr);
 	   String[] timeSplits = timeStr.split(":");
 	   if(timeSplits.length != 2){
 			printTimeValidationError();
@@ -157,11 +181,15 @@ public class UserInputValidator {
 	
 	   //validate the hour
 	   if(!validateUserInputIsInt(hour, 0,23)){
+			logger.info("User input time "+ timeStr+ " not a valid hour");
+
 			printTimeValidationError();
 			return false;
 		}
 	
 	   if(!validateUserInputIsInt(min,0,60)){
+			logger.info("User input time "+ timeStr+ " not a valid minute");
+
 			printTimeValidationError();
 			return false;
 	   }
