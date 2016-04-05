@@ -15,6 +15,8 @@ public class RoomTests {
 	private static final String TEST_ROOM_NAME = "Test Room";
 	private static final int TEST_ROOM_CAP = 25;
 	private static final int TEST_ROOM_CAP2 = 5027822;
+	private static String LOCATION = "Lowel Thomas";
+	private static String BUILDING = "Hancock";
 	private Room room;
 
 	/**
@@ -23,7 +25,7 @@ public class RoomTests {
 	 */
 	@Before
 	public void createRoom() {
-		room = new Room(TEST_ROOM_NAME, 23);
+		room = new Room(TEST_ROOM_NAME, 23, LOCATION, BUILDING);
 	}
 
 	/**
@@ -32,9 +34,15 @@ public class RoomTests {
 	 */
 	@Test
 	public void CreateRoomAndGet() {
-		assertEquals(room.getName(), "Test Room");
-		assertEquals(room.getCapacity(), 23);
+		assertEquals(TEST_ROOM_NAME, room.getName());
+		assertEquals( 23, room.getCapacity());
 
+	}
+	
+	@Test 
+	public void CreateRoomAndCheckDetails(){
+		assertEquals(LOCATION, room.getLocation());
+		assertEquals(BUILDING, room.getBuilding());
 	}
 
 	/**
@@ -44,7 +52,7 @@ public class RoomTests {
 	@Test
 	public void CreateRoomSetCapacity() {
 		room.setCapacity(TEST_ROOM_CAP2);
-		assertEquals(room.getCapacity(), TEST_ROOM_CAP);
+		assertEquals(TEST_ROOM_CAP,room.getCapacity());
 
 	}
 

@@ -69,7 +69,7 @@ public class UserInputValidator {
 	 * @param meeting
 	 * @return boolean Notconflicting
 	 */
-	public boolean validateNoMeetingConflicts(Room room, Meeting meeting){
+	public boolean validateNoMeetingConflicts(Room room, Meeting meeting, boolean displayMessages){
 		logger.info("checking room conflicts for room: "+room+" and meeting: "+ meeting.getSubject());
 		for (Meeting existingMeeting : room.getMeetings()){
 			Timestamp existingStartTime = existingMeeting.getStartTime();
@@ -86,21 +86,24 @@ public class UserInputValidator {
 			long newEndTimeEpoch = newEndTime.getTime();
 			//First lets make sure that the end time is after the start time
 			if(newEndTimeEpoch <= newStartTimeEpoch){
-				System.out.println("The end time must be after the start time");
+				if(displayMessages)
+					System.out.println("The end time must be after the start time");
 				logger.warn("user attempted to schedule a meeting with end time < startTime");
 				return false;
 			}
 			
 			//check that the start time is not in between existing meeting times 
 			if(newStartTimeEpoch >= existingStartTimeEpoch && newStartTimeEpoch <= existingEndTimeEpoch){
-				System.out.println("This meeting conflicts with an already scheduled meeting");
+				if(displayMessages)
+					System.out.println("This meeting conflicts with an already scheduled meeting");
 				logger.warn(meeting.getSubject()+" meeting conflicts in room "+room);
 				return false;
 			}
 			
 			//check that the end time is not in between existing meeting times
 			if(newEndTimeEpoch >= existingStartTimeEpoch && newEndTimeEpoch <= existingEndTimeEpoch){
-				System.out.println("This meeting conflicts with an already scheduled meeting");
+				if(displayMessages)
+					System.out.println("This meeting conflicts with an already scheduled meeting");
 				logger.warn(meeting.getSubject()+" meeting conflicts in room "+room);
 				return false;
 			}

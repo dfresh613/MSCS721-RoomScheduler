@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Properties;
 import java.util.Scanner;
 
@@ -219,7 +220,11 @@ public class RoomScheduler {
 				System.out.println("Invalid input for capacity, please enter a valid number");
 			}
 		}
-		Room newRoom = new Room(name, capacity);
+		System.out.println("Room location?");
+		String locationStr = keyboard.next();
+		System.out.println("Room building?");
+		String buildingStr = keyboard.next();
+		Room newRoom = new Room(name, capacity, locationStr, buildingStr);
 		//make sure the room doesn't already exist
 		if(getRoomFromName(roomList, newRoom.getName())==null){
 			roomList.add(newRoom);
@@ -268,6 +273,35 @@ public class RoomScheduler {
 	}
 	
 	/**
+	 * Will display the list of rooms available for a given meeting, and also return the list
+	 * for juint checking
+	 * @param roomList
+	 * @return List<Room> available rooms
+	 */
+	public static List<Room> queryAvailableRooms(ArrayList<Room> roomList, Meeting meeting){
+		List<Room> availableRooms = new ArrayList<Room>();
+		if(meeting == null){
+			String startDate = getValidatedDate("Start Date? (yyyy-mm-dd):");
+			String startTime = getValidatedTime("Start Time? (HH:mm)");
+			String endDate = getValidatedDate("End Date? (yyyy-mm-dd):");
+			String endTime = getValidatedTime("End Time? (HH:mm)");			
+			
+			Timestamp startTimestamp = Timestamp.valueOf(startDate + " " + startTime);
+			Timestamp endTimestamp = Timestamp.valueOf(endDate + " " + endTime);
+			meeting = new Meeting(startTimestamp, endTimestamp, "");
+		}
+		
+		System.out.println("Available Rooms for this meeting time:");
+		for(Room room:roomList){
+			if(validator.validateNoMeetingConflicts(room, meeting, false)){
+				System.out.println(room.getName());
+				availableRooms.add(room);
+			}
+		}
+		return availableRooms;
+	}
+	
+	/**
 	 * Schedule a room, all input is validated here 
 	 * @param roomList
 	 * @return resultMessage
@@ -277,6 +311,11 @@ public class RoomScheduler {
 		String endDate = "";
 		String startTime = "";
 		String endTime = "";
+		//first check if the user would like to list the available rooms for their meeting first.
+		System.out.println("Would you like to list the available Rooms first? (y/n)");
+		if(keyboard.next().equalsIgnoreCase("y") || keyboard.next().equalsIgnoreCase("yes") ){
+			queryAvailableRooms(roomList, null);
+		}
 		//Defect #? all time/date validation was incorrect here.
 			//validate the user entered room
 			System.out.println("Schedule a room:");
@@ -299,7 +338,7 @@ public class RoomScheduler {
 	
 	
 			Meeting meeting = new Meeting(startTimestamp, endTimestamp, subject);
-			if(validator.validateNoMeetingConflicts(curRoom,meeting)){
+			if(validator.validateNoMeetingConflicts(curRoom,meeting, true)){
 				curRoom.addMeeting(meeting);				
 				return "Successfully scheduled meeting!\n";
 			}else{
