@@ -1,0 +1,21 @@
+[
+{"name":"room0","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting0"}],"location":"marist","building":"lt"}
+,
+{"name":"room1","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting1"}],"location":"marist","building":"lt"}
+,
+{"name":"room2","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting2"}],"location":"marist","building":"lt"}
+,
+{"name":"room3","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting3"}],"location":"marist","building":"lt"}
+,
+{"name":"room4","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting4"}],"location":"marist","building":"lt"}
+,
+{"name":"room5","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting5"}],"location":"marist","building":"lt"}
+,
+{"name":"room6","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting6"}],"location":"marist","building":"lt"}
+,
+{"name":"room7","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting7"}],"location":"marist","building":"lt"}
+,
+{"name":"room8","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting8"}],"location":"marist","building":"lt"}
+,
+{"name":"room9","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting9"}],"location":"marist","building":"lt"}
+]

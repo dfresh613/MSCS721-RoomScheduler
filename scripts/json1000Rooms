@@ -1,0 +1,2001 @@
+[
+{"name":"room0","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting0"}],"location":"marist","building":"lt"}
+,
+{"name":"room1","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting1"}],"location":"marist","building":"lt"}
+,
+{"name":"room2","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting2"}],"location":"marist","building":"lt"}
+,
+{"name":"room3","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting3"}],"location":"marist","building":"lt"}
+,
+{"name":"room4","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting4"}],"location":"marist","building":"lt"}
+,
+{"name":"room5","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting5"}],"location":"marist","building":"lt"}
+,
+{"name":"room6","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting6"}],"location":"marist","building":"lt"}
+,
+{"name":"room7","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting7"}],"location":"marist","building":"lt"}
+,
+{"name":"room8","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting8"}],"location":"marist","building":"lt"}
+,
+{"name":"room9","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting9"}],"location":"marist","building":"lt"}
+,
+{"name":"room10","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting10"}],"location":"marist","building":"lt"}
+,
+{"name":"room11","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting11"}],"location":"marist","building":"lt"}
+,
+{"name":"room12","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting12"}],"location":"marist","building":"lt"}
+,
+{"name":"room13","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting13"}],"location":"marist","building":"lt"}
+,
+{"name":"room14","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting14"}],"location":"marist","building":"lt"}
+,
+{"name":"room15","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting15"}],"location":"marist","building":"lt"}
+,
+{"name":"room16","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting16"}],"location":"marist","building":"lt"}
+,
+{"name":"room17","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting17"}],"location":"marist","building":"lt"}
+,
+{"name":"room18","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting18"}],"location":"marist","building":"lt"}
+,
+{"name":"room19","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting19"}],"location":"marist","building":"lt"}
+,
+{"name":"room20","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting20"}],"location":"marist","building":"lt"}
+,
+{"name":"room21","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting21"}],"location":"marist","building":"lt"}
+,
+{"name":"room22","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting22"}],"location":"marist","building":"lt"}
+,
+{"name":"room23","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting23"}],"location":"marist","building":"lt"}
+,
+{"name":"room24","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting24"}],"location":"marist","building":"lt"}
+,
+{"name":"room25","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting25"}],"location":"marist","building":"lt"}
+,
+{"name":"room26","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting26"}],"location":"marist","building":"lt"}
+,
+{"name":"room27","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting27"}],"location":"marist","building":"lt"}
+,
+{"name":"room28","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting28"}],"location":"marist","building":"lt"}
+,
+{"name":"room29","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting29"}],"location":"marist","building":"lt"}
+,
+{"name":"room30","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting30"}],"location":"marist","building":"lt"}
+,
+{"name":"room31","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting31"}],"location":"marist","building":"lt"}
+,
+{"name":"room32","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting32"}],"location":"marist","building":"lt"}
+,
+{"name":"room33","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting33"}],"location":"marist","building":"lt"}
+,
+{"name":"room34","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting34"}],"location":"marist","building":"lt"}
+,
+{"name":"room35","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting35"}],"location":"marist","building":"lt"}
+,
+{"name":"room36","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting36"}],"location":"marist","building":"lt"}
+,
+{"name":"room37","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting37"}],"location":"marist","building":"lt"}
+,
+{"name":"room38","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting38"}],"location":"marist","building":"lt"}
+,
+{"name":"room39","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting39"}],"location":"marist","building":"lt"}
+,
+{"name":"room40","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting40"}],"location":"marist","building":"lt"}
+,
+{"name":"room41","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting41"}],"location":"marist","building":"lt"}
+,
+{"name":"room42","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting42"}],"location":"marist","building":"lt"}
+,
+{"name":"room43","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting43"}],"location":"marist","building":"lt"}
+,
+{"name":"room44","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting44"}],"location":"marist","building":"lt"}
+,
+{"name":"room45","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting45"}],"location":"marist","building":"lt"}
+,
+{"name":"room46","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting46"}],"location":"marist","building":"lt"}
+,
+{"name":"room47","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting47"}],"location":"marist","building":"lt"}
+,
+{"name":"room48","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting48"}],"location":"marist","building":"lt"}
+,
+{"name":"room49","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting49"}],"location":"marist","building":"lt"}
+,
+{"name":"room50","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting50"}],"location":"marist","building":"lt"}
+,
+{"name":"room51","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting51"}],"location":"marist","building":"lt"}
+,
+{"name":"room52","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting52"}],"location":"marist","building":"lt"}
+,
+{"name":"room53","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting53"}],"location":"marist","building":"lt"}
+,
+{"name":"room54","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting54"}],"location":"marist","building":"lt"}
+,
+{"name":"room55","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting55"}],"location":"marist","building":"lt"}
+,
+{"name":"room56","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting56"}],"location":"marist","building":"lt"}
+,
+{"name":"room57","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting57"}],"location":"marist","building":"lt"}
+,
+{"name":"room58","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting58"}],"location":"marist","building":"lt"}
+,
+{"name":"room59","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting59"}],"location":"marist","building":"lt"}
+,
+{"name":"room60","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting60"}],"location":"marist","building":"lt"}
+,
+{"name":"room61","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting61"}],"location":"marist","building":"lt"}
+,
+{"name":"room62","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting62"}],"location":"marist","building":"lt"}
+,
+{"name":"room63","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting63"}],"location":"marist","building":"lt"}
+,
+{"name":"room64","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting64"}],"location":"marist","building":"lt"}
+,
+{"name":"room65","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting65"}],"location":"marist","building":"lt"}
+,
+{"name":"room66","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting66"}],"location":"marist","building":"lt"}
+,
+{"name":"room67","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting67"}],"location":"marist","building":"lt"}
+,
+{"name":"room68","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting68"}],"location":"marist","building":"lt"}
+,
+{"name":"room69","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting69"}],"location":"marist","building":"lt"}
+,
+{"name":"room70","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting70"}],"location":"marist","building":"lt"}
+,
+{"name":"room71","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting71"}],"location":"marist","building":"lt"}
+,
+{"name":"room72","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting72"}],"location":"marist","building":"lt"}
+,
+{"name":"room73","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting73"}],"location":"marist","building":"lt"}
+,
+{"name":"room74","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting74"}],"location":"marist","building":"lt"}
+,
+{"name":"room75","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting75"}],"location":"marist","building":"lt"}
+,
+{"name":"room76","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting76"}],"location":"marist","building":"lt"}
+,
+{"name":"room77","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting77"}],"location":"marist","building":"lt"}
+,
+{"name":"room78","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting78"}],"location":"marist","building":"lt"}
+,
+{"name":"room79","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting79"}],"location":"marist","building":"lt"}
+,
+{"name":"room80","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting80"}],"location":"marist","building":"lt"}
+,
+{"name":"room81","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting81"}],"location":"marist","building":"lt"}
+,
+{"name":"room82","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting82"}],"location":"marist","building":"lt"}
+,
+{"name":"room83","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting83"}],"location":"marist","building":"lt"}
+,
+{"name":"room84","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting84"}],"location":"marist","building":"lt"}
+,
+{"name":"room85","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting85"}],"location":"marist","building":"lt"}
+,
+{"name":"room86","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting86"}],"location":"marist","building":"lt"}
+,
+{"name":"room87","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting87"}],"location":"marist","building":"lt"}
+,
+{"name":"room88","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting88"}],"location":"marist","building":"lt"}
+,
+{"name":"room89","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting89"}],"location":"marist","building":"lt"}
+,
+{"name":"room90","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting90"}],"location":"marist","building":"lt"}
+,
+{"name":"room91","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting91"}],"location":"marist","building":"lt"}
+,
+{"name":"room92","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting92"}],"location":"marist","building":"lt"}
+,
+{"name":"room93","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting93"}],"location":"marist","building":"lt"}
+,
+{"name":"room94","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting94"}],"location":"marist","building":"lt"}
+,
+{"name":"room95","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting95"}],"location":"marist","building":"lt"}
+,
+{"name":"room96","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting96"}],"location":"marist","building":"lt"}
+,
+{"name":"room97","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting97"}],"location":"marist","building":"lt"}
+,
+{"name":"room98","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting98"}],"location":"marist","building":"lt"}
+,
+{"name":"room99","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting99"}],"location":"marist","building":"lt"}
+,
+{"name":"room100","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting100"}],"location":"marist","building":"lt"}
+,
+{"name":"room101","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting101"}],"location":"marist","building":"lt"}
+,
+{"name":"room102","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting102"}],"location":"marist","building":"lt"}
+,
+{"name":"room103","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting103"}],"location":"marist","building":"lt"}
+,
+{"name":"room104","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting104"}],"location":"marist","building":"lt"}
+,
+{"name":"room105","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting105"}],"location":"marist","building":"lt"}
+,
+{"name":"room106","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting106"}],"location":"marist","building":"lt"}
+,
+{"name":"room107","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting107"}],"location":"marist","building":"lt"}
+,
+{"name":"room108","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting108"}],"location":"marist","building":"lt"}
+,
+{"name":"room109","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting109"}],"location":"marist","building":"lt"}
+,
+{"name":"room110","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting110"}],"location":"marist","building":"lt"}
+,
+{"name":"room111","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting111"}],"location":"marist","building":"lt"}
+,
+{"name":"room112","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting112"}],"location":"marist","building":"lt"}
+,
+{"name":"room113","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting113"}],"location":"marist","building":"lt"}
+,
+{"name":"room114","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting114"}],"location":"marist","building":"lt"}
+,
+{"name":"room115","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting115"}],"location":"marist","building":"lt"}
+,
+{"name":"room116","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting116"}],"location":"marist","building":"lt"}
+,
+{"name":"room117","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting117"}],"location":"marist","building":"lt"}
+,
+{"name":"room118","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting118"}],"location":"marist","building":"lt"}
+,
+{"name":"room119","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting119"}],"location":"marist","building":"lt"}
+,
+{"name":"room120","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting120"}],"location":"marist","building":"lt"}
+,
+{"name":"room121","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting121"}],"location":"marist","building":"lt"}
+,
+{"name":"room122","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting122"}],"location":"marist","building":"lt"}
+,
+{"name":"room123","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting123"}],"location":"marist","building":"lt"}
+,
+{"name":"room124","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting124"}],"location":"marist","building":"lt"}
+,
+{"name":"room125","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting125"}],"location":"marist","building":"lt"}
+,
+{"name":"room126","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting126"}],"location":"marist","building":"lt"}
+,
+{"name":"room127","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting127"}],"location":"marist","building":"lt"}
+,
+{"name":"room128","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting128"}],"location":"marist","building":"lt"}
+,
+{"name":"room129","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting129"}],"location":"marist","building":"lt"}
+,
+{"name":"room130","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting130"}],"location":"marist","building":"lt"}
+,
+{"name":"room131","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting131"}],"location":"marist","building":"lt"}
+,
+{"name":"room132","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting132"}],"location":"marist","building":"lt"}
+,
+{"name":"room133","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting133"}],"location":"marist","building":"lt"}
+,
+{"name":"room134","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting134"}],"location":"marist","building":"lt"}
+,
+{"name":"room135","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting135"}],"location":"marist","building":"lt"}
+,
+{"name":"room136","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting136"}],"location":"marist","building":"lt"}
+,
+{"name":"room137","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting137"}],"location":"marist","building":"lt"}
+,
+{"name":"room138","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting138"}],"location":"marist","building":"lt"}
+,
+{"name":"room139","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting139"}],"location":"marist","building":"lt"}
+,
+{"name":"room140","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting140"}],"location":"marist","building":"lt"}
+,
+{"name":"room141","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting141"}],"location":"marist","building":"lt"}
+,
+{"name":"room142","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting142"}],"location":"marist","building":"lt"}
+,
+{"name":"room143","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting143"}],"location":"marist","building":"lt"}
+,
+{"name":"room144","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting144"}],"location":"marist","building":"lt"}
+,
+{"name":"room145","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting145"}],"location":"marist","building":"lt"}
+,
+{"name":"room146","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting146"}],"location":"marist","building":"lt"}
+,
+{"name":"room147","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting147"}],"location":"marist","building":"lt"}
+,
+{"name":"room148","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting148"}],"location":"marist","building":"lt"}
+,
+{"name":"room149","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting149"}],"location":"marist","building":"lt"}
+,
+{"name":"room150","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting150"}],"location":"marist","building":"lt"}
+,
+{"name":"room151","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting151"}],"location":"marist","building":"lt"}
+,
+{"name":"room152","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting152"}],"location":"marist","building":"lt"}
+,
+{"name":"room153","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting153"}],"location":"marist","building":"lt"}
+,
+{"name":"room154","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting154"}],"location":"marist","building":"lt"}
+,
+{"name":"room155","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting155"}],"location":"marist","building":"lt"}
+,
+{"name":"room156","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting156"}],"location":"marist","building":"lt"}
+,
+{"name":"room157","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting157"}],"location":"marist","building":"lt"}
+,
+{"name":"room158","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting158"}],"location":"marist","building":"lt"}
+,
+{"name":"room159","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting159"}],"location":"marist","building":"lt"}
+,
+{"name":"room160","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting160"}],"location":"marist","building":"lt"}
+,
+{"name":"room161","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting161"}],"location":"marist","building":"lt"}
+,
+{"name":"room162","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting162"}],"location":"marist","building":"lt"}
+,
+{"name":"room163","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting163"}],"location":"marist","building":"lt"}
+,
+{"name":"room164","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting164"}],"location":"marist","building":"lt"}
+,
+{"name":"room165","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting165"}],"location":"marist","building":"lt"}
+,
+{"name":"room166","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting166"}],"location":"marist","building":"lt"}
+,
+{"name":"room167","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting167"}],"location":"marist","building":"lt"}
+,
+{"name":"room168","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting168"}],"location":"marist","building":"lt"}
+,
+{"name":"room169","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting169"}],"location":"marist","building":"lt"}
+,
+{"name":"room170","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting170"}],"location":"marist","building":"lt"}
+,
+{"name":"room171","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting171"}],"location":"marist","building":"lt"}
+,
+{"name":"room172","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting172"}],"location":"marist","building":"lt"}
+,
+{"name":"room173","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting173"}],"location":"marist","building":"lt"}
+,
+{"name":"room174","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting174"}],"location":"marist","building":"lt"}
+,
+{"name":"room175","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting175"}],"location":"marist","building":"lt"}
+,
+{"name":"room176","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting176"}],"location":"marist","building":"lt"}
+,
+{"name":"room177","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting177"}],"location":"marist","building":"lt"}
+,
+{"name":"room178","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting178"}],"location":"marist","building":"lt"}
+,
+{"name":"room179","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting179"}],"location":"marist","building":"lt"}
+,
+{"name":"room180","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting180"}],"location":"marist","building":"lt"}
+,
+{"name":"room181","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting181"}],"location":"marist","building":"lt"}
+,
+{"name":"room182","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting182"}],"location":"marist","building":"lt"}
+,
+{"name":"room183","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting183"}],"location":"marist","building":"lt"}
+,
+{"name":"room184","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting184"}],"location":"marist","building":"lt"}
+,
+{"name":"room185","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting185"}],"location":"marist","building":"lt"}
+,
+{"name":"room186","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting186"}],"location":"marist","building":"lt"}
+,
+{"name":"room187","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting187"}],"location":"marist","building":"lt"}
+,
+{"name":"room188","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting188"}],"location":"marist","building":"lt"}
+,
+{"name":"room189","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting189"}],"location":"marist","building":"lt"}
+,
+{"name":"room190","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting190"}],"location":"marist","building":"lt"}
+,
+{"name":"room191","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting191"}],"location":"marist","building":"lt"}
+,
+{"name":"room192","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting192"}],"location":"marist","building":"lt"}
+,
+{"name":"room193","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting193"}],"location":"marist","building":"lt"}
+,
+{"name":"room194","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting194"}],"location":"marist","building":"lt"}
+,
+{"name":"room195","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting195"}],"location":"marist","building":"lt"}
+,
+{"name":"room196","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting196"}],"location":"marist","building":"lt"}
+,
+{"name":"room197","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting197"}],"location":"marist","building":"lt"}
+,
+{"name":"room198","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting198"}],"location":"marist","building":"lt"}
+,
+{"name":"room199","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting199"}],"location":"marist","building":"lt"}
+,
+{"name":"room200","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting200"}],"location":"marist","building":"lt"}
+,
+{"name":"room201","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting201"}],"location":"marist","building":"lt"}
+,
+{"name":"room202","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting202"}],"location":"marist","building":"lt"}
+,
+{"name":"room203","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting203"}],"location":"marist","building":"lt"}
+,
+{"name":"room204","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting204"}],"location":"marist","building":"lt"}
+,
+{"name":"room205","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting205"}],"location":"marist","building":"lt"}
+,
+{"name":"room206","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting206"}],"location":"marist","building":"lt"}
+,
+{"name":"room207","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting207"}],"location":"marist","building":"lt"}
+,
+{"name":"room208","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting208"}],"location":"marist","building":"lt"}
+,
+{"name":"room209","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting209"}],"location":"marist","building":"lt"}
+,
+{"name":"room210","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting210"}],"location":"marist","building":"lt"}
+,
+{"name":"room211","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting211"}],"location":"marist","building":"lt"}
+,
+{"name":"room212","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting212"}],"location":"marist","building":"lt"}
+,
+{"name":"room213","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting213"}],"location":"marist","building":"lt"}
+,
+{"name":"room214","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting214"}],"location":"marist","building":"lt"}
+,
+{"name":"room215","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting215"}],"location":"marist","building":"lt"}
+,
+{"name":"room216","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting216"}],"location":"marist","building":"lt"}
+,
+{"name":"room217","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting217"}],"location":"marist","building":"lt"}
+,
+{"name":"room218","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting218"}],"location":"marist","building":"lt"}
+,
+{"name":"room219","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting219"}],"location":"marist","building":"lt"}
+,
+{"name":"room220","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting220"}],"location":"marist","building":"lt"}
+,
+{"name":"room221","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting221"}],"location":"marist","building":"lt"}
+,
+{"name":"room222","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting222"}],"location":"marist","building":"lt"}
+,
+{"name":"room223","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting223"}],"location":"marist","building":"lt"}
+,
+{"name":"room224","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting224"}],"location":"marist","building":"lt"}
+,
+{"name":"room225","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting225"}],"location":"marist","building":"lt"}
+,
+{"name":"room226","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting226"}],"location":"marist","building":"lt"}
+,
+{"name":"room227","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting227"}],"location":"marist","building":"lt"}
+,
+{"name":"room228","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting228"}],"location":"marist","building":"lt"}
+,
+{"name":"room229","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting229"}],"location":"marist","building":"lt"}
+,
+{"name":"room230","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting230"}],"location":"marist","building":"lt"}
+,
+{"name":"room231","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting231"}],"location":"marist","building":"lt"}
+,
+{"name":"room232","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting232"}],"location":"marist","building":"lt"}
+,
+{"name":"room233","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting233"}],"location":"marist","building":"lt"}
+,
+{"name":"room234","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting234"}],"location":"marist","building":"lt"}
+,
+{"name":"room235","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting235"}],"location":"marist","building":"lt"}
+,
+{"name":"room236","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting236"}],"location":"marist","building":"lt"}
+,
+{"name":"room237","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting237"}],"location":"marist","building":"lt"}
+,
+{"name":"room238","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting238"}],"location":"marist","building":"lt"}
+,
+{"name":"room239","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting239"}],"location":"marist","building":"lt"}
+,
+{"name":"room240","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting240"}],"location":"marist","building":"lt"}
+,
+{"name":"room241","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting241"}],"location":"marist","building":"lt"}
+,
+{"name":"room242","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting242"}],"location":"marist","building":"lt"}
+,
+{"name":"room243","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting243"}],"location":"marist","building":"lt"}
+,
+{"name":"room244","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting244"}],"location":"marist","building":"lt"}
+,
+{"name":"room245","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting245"}],"location":"marist","building":"lt"}
+,
+{"name":"room246","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting246"}],"location":"marist","building":"lt"}
+,
+{"name":"room247","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting247"}],"location":"marist","building":"lt"}
+,
+{"name":"room248","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting248"}],"location":"marist","building":"lt"}
+,
+{"name":"room249","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting249"}],"location":"marist","building":"lt"}
+,
+{"name":"room250","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting250"}],"location":"marist","building":"lt"}
+,
+{"name":"room251","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting251"}],"location":"marist","building":"lt"}
+,
+{"name":"room252","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting252"}],"location":"marist","building":"lt"}
+,
+{"name":"room253","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting253"}],"location":"marist","building":"lt"}
+,
+{"name":"room254","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting254"}],"location":"marist","building":"lt"}
+,
+{"name":"room255","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting255"}],"location":"marist","building":"lt"}
+,
+{"name":"room256","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting256"}],"location":"marist","building":"lt"}
+,
+{"name":"room257","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting257"}],"location":"marist","building":"lt"}
+,
+{"name":"room258","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting258"}],"location":"marist","building":"lt"}
+,
+{"name":"room259","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting259"}],"location":"marist","building":"lt"}
+,
+{"name":"room260","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting260"}],"location":"marist","building":"lt"}
+,
+{"name":"room261","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting261"}],"location":"marist","building":"lt"}
+,
+{"name":"room262","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting262"}],"location":"marist","building":"lt"}
+,
+{"name":"room263","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting263"}],"location":"marist","building":"lt"}
+,
+{"name":"room264","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting264"}],"location":"marist","building":"lt"}
+,
+{"name":"room265","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting265"}],"location":"marist","building":"lt"}
+,
+{"name":"room266","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting266"}],"location":"marist","building":"lt"}
+,
+{"name":"room267","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting267"}],"location":"marist","building":"lt"}
+,
+{"name":"room268","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting268"}],"location":"marist","building":"lt"}
+,
+{"name":"room269","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting269"}],"location":"marist","building":"lt"}
+,
+{"name":"room270","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting270"}],"location":"marist","building":"lt"}
+,
+{"name":"room271","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting271"}],"location":"marist","building":"lt"}
+,
+{"name":"room272","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting272"}],"location":"marist","building":"lt"}
+,
+{"name":"room273","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting273"}],"location":"marist","building":"lt"}
+,
+{"name":"room274","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting274"}],"location":"marist","building":"lt"}
+,
+{"name":"room275","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting275"}],"location":"marist","building":"lt"}
+,
+{"name":"room276","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting276"}],"location":"marist","building":"lt"}
+,
+{"name":"room277","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting277"}],"location":"marist","building":"lt"}
+,
+{"name":"room278","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting278"}],"location":"marist","building":"lt"}
+,
+{"name":"room279","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting279"}],"location":"marist","building":"lt"}
+,
+{"name":"room280","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting280"}],"location":"marist","building":"lt"}
+,
+{"name":"room281","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting281"}],"location":"marist","building":"lt"}
+,
+{"name":"room282","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting282"}],"location":"marist","building":"lt"}
+,
+{"name":"room283","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting283"}],"location":"marist","building":"lt"}
+,
+{"name":"room284","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting284"}],"location":"marist","building":"lt"}
+,
+{"name":"room285","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting285"}],"location":"marist","building":"lt"}
+,
+{"name":"room286","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting286"}],"location":"marist","building":"lt"}
+,
+{"name":"room287","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting287"}],"location":"marist","building":"lt"}
+,
+{"name":"room288","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting288"}],"location":"marist","building":"lt"}
+,
+{"name":"room289","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting289"}],"location":"marist","building":"lt"}
+,
+{"name":"room290","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting290"}],"location":"marist","building":"lt"}
+,
+{"name":"room291","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting291"}],"location":"marist","building":"lt"}
+,
+{"name":"room292","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting292"}],"location":"marist","building":"lt"}
+,
+{"name":"room293","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting293"}],"location":"marist","building":"lt"}
+,
+{"name":"room294","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting294"}],"location":"marist","building":"lt"}
+,
+{"name":"room295","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting295"}],"location":"marist","building":"lt"}
+,
+{"name":"room296","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting296"}],"location":"marist","building":"lt"}
+,
+{"name":"room297","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting297"}],"location":"marist","building":"lt"}
+,
+{"name":"room298","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting298"}],"location":"marist","building":"lt"}
+,
+{"name":"room299","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting299"}],"location":"marist","building":"lt"}
+,
+{"name":"room300","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting300"}],"location":"marist","building":"lt"}
+,
+{"name":"room301","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting301"}],"location":"marist","building":"lt"}
+,
+{"name":"room302","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting302"}],"location":"marist","building":"lt"}
+,
+{"name":"room303","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting303"}],"location":"marist","building":"lt"}
+,
+{"name":"room304","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting304"}],"location":"marist","building":"lt"}
+,
+{"name":"room305","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting305"}],"location":"marist","building":"lt"}
+,
+{"name":"room306","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting306"}],"location":"marist","building":"lt"}
+,
+{"name":"room307","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting307"}],"location":"marist","building":"lt"}
+,
+{"name":"room308","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting308"}],"location":"marist","building":"lt"}
+,
+{"name":"room309","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting309"}],"location":"marist","building":"lt"}
+,
+{"name":"room310","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting310"}],"location":"marist","building":"lt"}
+,
+{"name":"room311","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting311"}],"location":"marist","building":"lt"}
+,
+{"name":"room312","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting312"}],"location":"marist","building":"lt"}
+,
+{"name":"room313","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting313"}],"location":"marist","building":"lt"}
+,
+{"name":"room314","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting314"}],"location":"marist","building":"lt"}
+,
+{"name":"room315","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting315"}],"location":"marist","building":"lt"}
+,
+{"name":"room316","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting316"}],"location":"marist","building":"lt"}
+,
+{"name":"room317","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting317"}],"location":"marist","building":"lt"}
+,
+{"name":"room318","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting318"}],"location":"marist","building":"lt"}
+,
+{"name":"room319","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting319"}],"location":"marist","building":"lt"}
+,
+{"name":"room320","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting320"}],"location":"marist","building":"lt"}
+,
+{"name":"room321","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting321"}],"location":"marist","building":"lt"}
+,
+{"name":"room322","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting322"}],"location":"marist","building":"lt"}
+,
+{"name":"room323","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting323"}],"location":"marist","building":"lt"}
+,
+{"name":"room324","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting324"}],"location":"marist","building":"lt"}
+,
+{"name":"room325","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting325"}],"location":"marist","building":"lt"}
+,
+{"name":"room326","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting326"}],"location":"marist","building":"lt"}
+,
+{"name":"room327","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting327"}],"location":"marist","building":"lt"}
+,
+{"name":"room328","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting328"}],"location":"marist","building":"lt"}
+,
+{"name":"room329","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting329"}],"location":"marist","building":"lt"}
+,
+{"name":"room330","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting330"}],"location":"marist","building":"lt"}
+,
+{"name":"room331","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting331"}],"location":"marist","building":"lt"}
+,
+{"name":"room332","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting332"}],"location":"marist","building":"lt"}
+,
+{"name":"room333","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting333"}],"location":"marist","building":"lt"}
+,
+{"name":"room334","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting334"}],"location":"marist","building":"lt"}
+,
+{"name":"room335","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting335"}],"location":"marist","building":"lt"}
+,
+{"name":"room336","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting336"}],"location":"marist","building":"lt"}
+,
+{"name":"room337","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting337"}],"location":"marist","building":"lt"}
+,
+{"name":"room338","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting338"}],"location":"marist","building":"lt"}
+,
+{"name":"room339","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting339"}],"location":"marist","building":"lt"}
+,
+{"name":"room340","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting340"}],"location":"marist","building":"lt"}
+,
+{"name":"room341","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting341"}],"location":"marist","building":"lt"}
+,
+{"name":"room342","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting342"}],"location":"marist","building":"lt"}
+,
+{"name":"room343","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting343"}],"location":"marist","building":"lt"}
+,
+{"name":"room344","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting344"}],"location":"marist","building":"lt"}
+,
+{"name":"room345","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting345"}],"location":"marist","building":"lt"}
+,
+{"name":"room346","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting346"}],"location":"marist","building":"lt"}
+,
+{"name":"room347","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting347"}],"location":"marist","building":"lt"}
+,
+{"name":"room348","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting348"}],"location":"marist","building":"lt"}
+,
+{"name":"room349","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting349"}],"location":"marist","building":"lt"}
+,
+{"name":"room350","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting350"}],"location":"marist","building":"lt"}
+,
+{"name":"room351","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting351"}],"location":"marist","building":"lt"}
+,
+{"name":"room352","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting352"}],"location":"marist","building":"lt"}
+,
+{"name":"room353","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting353"}],"location":"marist","building":"lt"}
+,
+{"name":"room354","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting354"}],"location":"marist","building":"lt"}
+,
+{"name":"room355","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting355"}],"location":"marist","building":"lt"}
+,
+{"name":"room356","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting356"}],"location":"marist","building":"lt"}
+,
+{"name":"room357","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting357"}],"location":"marist","building":"lt"}
+,
+{"name":"room358","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting358"}],"location":"marist","building":"lt"}
+,
+{"name":"room359","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting359"}],"location":"marist","building":"lt"}
+,
+{"name":"room360","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting360"}],"location":"marist","building":"lt"}
+,
+{"name":"room361","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting361"}],"location":"marist","building":"lt"}
+,
+{"name":"room362","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting362"}],"location":"marist","building":"lt"}
+,
+{"name":"room363","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting363"}],"location":"marist","building":"lt"}
+,
+{"name":"room364","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting364"}],"location":"marist","building":"lt"}
+,
+{"name":"room365","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting365"}],"location":"marist","building":"lt"}
+,
+{"name":"room366","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting366"}],"location":"marist","building":"lt"}
+,
+{"name":"room367","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting367"}],"location":"marist","building":"lt"}
+,
+{"name":"room368","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting368"}],"location":"marist","building":"lt"}
+,
+{"name":"room369","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting369"}],"location":"marist","building":"lt"}
+,
+{"name":"room370","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting370"}],"location":"marist","building":"lt"}
+,
+{"name":"room371","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting371"}],"location":"marist","building":"lt"}
+,
+{"name":"room372","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting372"}],"location":"marist","building":"lt"}
+,
+{"name":"room373","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting373"}],"location":"marist","building":"lt"}
+,
+{"name":"room374","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting374"}],"location":"marist","building":"lt"}
+,
+{"name":"room375","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting375"}],"location":"marist","building":"lt"}
+,
+{"name":"room376","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting376"}],"location":"marist","building":"lt"}
+,
+{"name":"room377","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting377"}],"location":"marist","building":"lt"}
+,
+{"name":"room378","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting378"}],"location":"marist","building":"lt"}
+,
+{"name":"room379","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting379"}],"location":"marist","building":"lt"}
+,
+{"name":"room380","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting380"}],"location":"marist","building":"lt"}
+,
+{"name":"room381","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting381"}],"location":"marist","building":"lt"}
+,
+{"name":"room382","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting382"}],"location":"marist","building":"lt"}
+,
+{"name":"room383","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting383"}],"location":"marist","building":"lt"}
+,
+{"name":"room384","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting384"}],"location":"marist","building":"lt"}
+,
+{"name":"room385","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting385"}],"location":"marist","building":"lt"}
+,
+{"name":"room386","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting386"}],"location":"marist","building":"lt"}
+,
+{"name":"room387","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting387"}],"location":"marist","building":"lt"}
+,
+{"name":"room388","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting388"}],"location":"marist","building":"lt"}
+,
+{"name":"room389","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting389"}],"location":"marist","building":"lt"}
+,
+{"name":"room390","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting390"}],"location":"marist","building":"lt"}
+,
+{"name":"room391","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting391"}],"location":"marist","building":"lt"}
+,
+{"name":"room392","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting392"}],"location":"marist","building":"lt"}
+,
+{"name":"room393","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting393"}],"location":"marist","building":"lt"}
+,
+{"name":"room394","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting394"}],"location":"marist","building":"lt"}
+,
+{"name":"room395","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting395"}],"location":"marist","building":"lt"}
+,
+{"name":"room396","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting396"}],"location":"marist","building":"lt"}
+,
+{"name":"room397","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting397"}],"location":"marist","building":"lt"}
+,
+{"name":"room398","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting398"}],"location":"marist","building":"lt"}
+,
+{"name":"room399","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting399"}],"location":"marist","building":"lt"}
+,
+{"name":"room400","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting400"}],"location":"marist","building":"lt"}
+,
+{"name":"room401","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting401"}],"location":"marist","building":"lt"}
+,
+{"name":"room402","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting402"}],"location":"marist","building":"lt"}
+,
+{"name":"room403","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting403"}],"location":"marist","building":"lt"}
+,
+{"name":"room404","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting404"}],"location":"marist","building":"lt"}
+,
+{"name":"room405","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting405"}],"location":"marist","building":"lt"}
+,
+{"name":"room406","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting406"}],"location":"marist","building":"lt"}
+,
+{"name":"room407","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting407"}],"location":"marist","building":"lt"}
+,
+{"name":"room408","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting408"}],"location":"marist","building":"lt"}
+,
+{"name":"room409","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting409"}],"location":"marist","building":"lt"}
+,
+{"name":"room410","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting410"}],"location":"marist","building":"lt"}
+,
+{"name":"room411","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting411"}],"location":"marist","building":"lt"}
+,
+{"name":"room412","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting412"}],"location":"marist","building":"lt"}
+,
+{"name":"room413","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting413"}],"location":"marist","building":"lt"}
+,
+{"name":"room414","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting414"}],"location":"marist","building":"lt"}
+,
+{"name":"room415","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting415"}],"location":"marist","building":"lt"}
+,
+{"name":"room416","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting416"}],"location":"marist","building":"lt"}
+,
+{"name":"room417","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting417"}],"location":"marist","building":"lt"}
+,
+{"name":"room418","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting418"}],"location":"marist","building":"lt"}
+,
+{"name":"room419","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting419"}],"location":"marist","building":"lt"}
+,
+{"name":"room420","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting420"}],"location":"marist","building":"lt"}
+,
+{"name":"room421","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting421"}],"location":"marist","building":"lt"}
+,
+{"name":"room422","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting422"}],"location":"marist","building":"lt"}
+,
+{"name":"room423","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting423"}],"location":"marist","building":"lt"}
+,
+{"name":"room424","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting424"}],"location":"marist","building":"lt"}
+,
+{"name":"room425","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting425"}],"location":"marist","building":"lt"}
+,
+{"name":"room426","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting426"}],"location":"marist","building":"lt"}
+,
+{"name":"room427","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting427"}],"location":"marist","building":"lt"}
+,
+{"name":"room428","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting428"}],"location":"marist","building":"lt"}
+,
+{"name":"room429","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting429"}],"location":"marist","building":"lt"}
+,
+{"name":"room430","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting430"}],"location":"marist","building":"lt"}
+,
+{"name":"room431","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting431"}],"location":"marist","building":"lt"}
+,
+{"name":"room432","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting432"}],"location":"marist","building":"lt"}
+,
+{"name":"room433","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting433"}],"location":"marist","building":"lt"}
+,
+{"name":"room434","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting434"}],"location":"marist","building":"lt"}
+,
+{"name":"room435","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting435"}],"location":"marist","building":"lt"}
+,
+{"name":"room436","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting436"}],"location":"marist","building":"lt"}
+,
+{"name":"room437","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting437"}],"location":"marist","building":"lt"}
+,
+{"name":"room438","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting438"}],"location":"marist","building":"lt"}
+,
+{"name":"room439","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting439"}],"location":"marist","building":"lt"}
+,
+{"name":"room440","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting440"}],"location":"marist","building":"lt"}
+,
+{"name":"room441","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting441"}],"location":"marist","building":"lt"}
+,
+{"name":"room442","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting442"}],"location":"marist","building":"lt"}
+,
+{"name":"room443","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting443"}],"location":"marist","building":"lt"}
+,
+{"name":"room444","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting444"}],"location":"marist","building":"lt"}
+,
+{"name":"room445","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting445"}],"location":"marist","building":"lt"}
+,
+{"name":"room446","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting446"}],"location":"marist","building":"lt"}
+,
+{"name":"room447","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting447"}],"location":"marist","building":"lt"}
+,
+{"name":"room448","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting448"}],"location":"marist","building":"lt"}
+,
+{"name":"room449","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting449"}],"location":"marist","building":"lt"}
+,
+{"name":"room450","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting450"}],"location":"marist","building":"lt"}
+,
+{"name":"room451","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting451"}],"location":"marist","building":"lt"}
+,
+{"name":"room452","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting452"}],"location":"marist","building":"lt"}
+,
+{"name":"room453","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting453"}],"location":"marist","building":"lt"}
+,
+{"name":"room454","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting454"}],"location":"marist","building":"lt"}
+,
+{"name":"room455","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting455"}],"location":"marist","building":"lt"}
+,
+{"name":"room456","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting456"}],"location":"marist","building":"lt"}
+,
+{"name":"room457","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting457"}],"location":"marist","building":"lt"}
+,
+{"name":"room458","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting458"}],"location":"marist","building":"lt"}
+,
+{"name":"room459","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting459"}],"location":"marist","building":"lt"}
+,
+{"name":"room460","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting460"}],"location":"marist","building":"lt"}
+,
+{"name":"room461","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting461"}],"location":"marist","building":"lt"}
+,
+{"name":"room462","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting462"}],"location":"marist","building":"lt"}
+,
+{"name":"room463","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting463"}],"location":"marist","building":"lt"}
+,
+{"name":"room464","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting464"}],"location":"marist","building":"lt"}
+,
+{"name":"room465","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting465"}],"location":"marist","building":"lt"}
+,
+{"name":"room466","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting466"}],"location":"marist","building":"lt"}
+,
+{"name":"room467","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting467"}],"location":"marist","building":"lt"}
+,
+{"name":"room468","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting468"}],"location":"marist","building":"lt"}
+,
+{"name":"room469","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting469"}],"location":"marist","building":"lt"}
+,
+{"name":"room470","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting470"}],"location":"marist","building":"lt"}
+,
+{"name":"room471","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting471"}],"location":"marist","building":"lt"}
+,
+{"name":"room472","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting472"}],"location":"marist","building":"lt"}
+,
+{"name":"room473","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting473"}],"location":"marist","building":"lt"}
+,
+{"name":"room474","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting474"}],"location":"marist","building":"lt"}
+,
+{"name":"room475","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting475"}],"location":"marist","building":"lt"}
+,
+{"name":"room476","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting476"}],"location":"marist","building":"lt"}
+,
+{"name":"room477","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting477"}],"location":"marist","building":"lt"}
+,
+{"name":"room478","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting478"}],"location":"marist","building":"lt"}
+,
+{"name":"room479","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting479"}],"location":"marist","building":"lt"}
+,
+{"name":"room480","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting480"}],"location":"marist","building":"lt"}
+,
+{"name":"room481","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting481"}],"location":"marist","building":"lt"}
+,
+{"name":"room482","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting482"}],"location":"marist","building":"lt"}
+,
+{"name":"room483","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting483"}],"location":"marist","building":"lt"}
+,
+{"name":"room484","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting484"}],"location":"marist","building":"lt"}
+,
+{"name":"room485","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting485"}],"location":"marist","building":"lt"}
+,
+{"name":"room486","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting486"}],"location":"marist","building":"lt"}
+,
+{"name":"room487","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting487"}],"location":"marist","building":"lt"}
+,
+{"name":"room488","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting488"}],"location":"marist","building":"lt"}
+,
+{"name":"room489","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting489"}],"location":"marist","building":"lt"}
+,
+{"name":"room490","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting490"}],"location":"marist","building":"lt"}
+,
+{"name":"room491","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting491"}],"location":"marist","building":"lt"}
+,
+{"name":"room492","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting492"}],"location":"marist","building":"lt"}
+,
+{"name":"room493","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting493"}],"location":"marist","building":"lt"}
+,
+{"name":"room494","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting494"}],"location":"marist","building":"lt"}
+,
+{"name":"room495","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting495"}],"location":"marist","building":"lt"}
+,
+{"name":"room496","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting496"}],"location":"marist","building":"lt"}
+,
+{"name":"room497","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting497"}],"location":"marist","building":"lt"}
+,
+{"name":"room498","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting498"}],"location":"marist","building":"lt"}
+,
+{"name":"room499","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting499"}],"location":"marist","building":"lt"}
+,
+{"name":"room500","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting500"}],"location":"marist","building":"lt"}
+,
+{"name":"room501","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting501"}],"location":"marist","building":"lt"}
+,
+{"name":"room502","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting502"}],"location":"marist","building":"lt"}
+,
+{"name":"room503","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting503"}],"location":"marist","building":"lt"}
+,
+{"name":"room504","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting504"}],"location":"marist","building":"lt"}
+,
+{"name":"room505","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting505"}],"location":"marist","building":"lt"}
+,
+{"name":"room506","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting506"}],"location":"marist","building":"lt"}
+,
+{"name":"room507","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting507"}],"location":"marist","building":"lt"}
+,
+{"name":"room508","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting508"}],"location":"marist","building":"lt"}
+,
+{"name":"room509","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting509"}],"location":"marist","building":"lt"}
+,
+{"name":"room510","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting510"}],"location":"marist","building":"lt"}
+,
+{"name":"room511","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting511"}],"location":"marist","building":"lt"}
+,
+{"name":"room512","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting512"}],"location":"marist","building":"lt"}
+,
+{"name":"room513","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting513"}],"location":"marist","building":"lt"}
+,
+{"name":"room514","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting514"}],"location":"marist","building":"lt"}
+,
+{"name":"room515","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting515"}],"location":"marist","building":"lt"}
+,
+{"name":"room516","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting516"}],"location":"marist","building":"lt"}
+,
+{"name":"room517","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting517"}],"location":"marist","building":"lt"}
+,
+{"name":"room518","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting518"}],"location":"marist","building":"lt"}
+,
+{"name":"room519","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting519"}],"location":"marist","building":"lt"}
+,
+{"name":"room520","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting520"}],"location":"marist","building":"lt"}
+,
+{"name":"room521","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting521"}],"location":"marist","building":"lt"}
+,
+{"name":"room522","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting522"}],"location":"marist","building":"lt"}
+,
+{"name":"room523","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting523"}],"location":"marist","building":"lt"}
+,
+{"name":"room524","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting524"}],"location":"marist","building":"lt"}
+,
+{"name":"room525","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting525"}],"location":"marist","building":"lt"}
+,
+{"name":"room526","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting526"}],"location":"marist","building":"lt"}
+,
+{"name":"room527","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting527"}],"location":"marist","building":"lt"}
+,
+{"name":"room528","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting528"}],"location":"marist","building":"lt"}
+,
+{"name":"room529","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting529"}],"location":"marist","building":"lt"}
+,
+{"name":"room530","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting530"}],"location":"marist","building":"lt"}
+,
+{"name":"room531","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting531"}],"location":"marist","building":"lt"}
+,
+{"name":"room532","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting532"}],"location":"marist","building":"lt"}
+,
+{"name":"room533","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting533"}],"location":"marist","building":"lt"}
+,
+{"name":"room534","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting534"}],"location":"marist","building":"lt"}
+,
+{"name":"room535","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting535"}],"location":"marist","building":"lt"}
+,
+{"name":"room536","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting536"}],"location":"marist","building":"lt"}
+,
+{"name":"room537","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting537"}],"location":"marist","building":"lt"}
+,
+{"name":"room538","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting538"}],"location":"marist","building":"lt"}
+,
+{"name":"room539","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting539"}],"location":"marist","building":"lt"}
+,
+{"name":"room540","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting540"}],"location":"marist","building":"lt"}
+,
+{"name":"room541","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting541"}],"location":"marist","building":"lt"}
+,
+{"name":"room542","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting542"}],"location":"marist","building":"lt"}
+,
+{"name":"room543","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting543"}],"location":"marist","building":"lt"}
+,
+{"name":"room544","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting544"}],"location":"marist","building":"lt"}
+,
+{"name":"room545","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting545"}],"location":"marist","building":"lt"}
+,
+{"name":"room546","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting546"}],"location":"marist","building":"lt"}
+,
+{"name":"room547","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting547"}],"location":"marist","building":"lt"}
+,
+{"name":"room548","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting548"}],"location":"marist","building":"lt"}
+,
+{"name":"room549","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting549"}],"location":"marist","building":"lt"}
+,
+{"name":"room550","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting550"}],"location":"marist","building":"lt"}
+,
+{"name":"room551","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting551"}],"location":"marist","building":"lt"}
+,
+{"name":"room552","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting552"}],"location":"marist","building":"lt"}
+,
+{"name":"room553","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting553"}],"location":"marist","building":"lt"}
+,
+{"name":"room554","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting554"}],"location":"marist","building":"lt"}
+,
+{"name":"room555","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting555"}],"location":"marist","building":"lt"}
+,
+{"name":"room556","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting556"}],"location":"marist","building":"lt"}
+,
+{"name":"room557","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting557"}],"location":"marist","building":"lt"}
+,
+{"name":"room558","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting558"}],"location":"marist","building":"lt"}
+,
+{"name":"room559","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting559"}],"location":"marist","building":"lt"}
+,
+{"name":"room560","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting560"}],"location":"marist","building":"lt"}
+,
+{"name":"room561","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting561"}],"location":"marist","building":"lt"}
+,
+{"name":"room562","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting562"}],"location":"marist","building":"lt"}
+,
+{"name":"room563","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting563"}],"location":"marist","building":"lt"}
+,
+{"name":"room564","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting564"}],"location":"marist","building":"lt"}
+,
+{"name":"room565","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting565"}],"location":"marist","building":"lt"}
+,
+{"name":"room566","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting566"}],"location":"marist","building":"lt"}
+,
+{"name":"room567","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting567"}],"location":"marist","building":"lt"}
+,
+{"name":"room568","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting568"}],"location":"marist","building":"lt"}
+,
+{"name":"room569","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting569"}],"location":"marist","building":"lt"}
+,
+{"name":"room570","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting570"}],"location":"marist","building":"lt"}
+,
+{"name":"room571","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting571"}],"location":"marist","building":"lt"}
+,
+{"name":"room572","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting572"}],"location":"marist","building":"lt"}
+,
+{"name":"room573","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting573"}],"location":"marist","building":"lt"}
+,
+{"name":"room574","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting574"}],"location":"marist","building":"lt"}
+,
+{"name":"room575","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting575"}],"location":"marist","building":"lt"}
+,
+{"name":"room576","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting576"}],"location":"marist","building":"lt"}
+,
+{"name":"room577","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting577"}],"location":"marist","building":"lt"}
+,
+{"name":"room578","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting578"}],"location":"marist","building":"lt"}
+,
+{"name":"room579","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting579"}],"location":"marist","building":"lt"}
+,
+{"name":"room580","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting580"}],"location":"marist","building":"lt"}
+,
+{"name":"room581","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting581"}],"location":"marist","building":"lt"}
+,
+{"name":"room582","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting582"}],"location":"marist","building":"lt"}
+,
+{"name":"room583","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting583"}],"location":"marist","building":"lt"}
+,
+{"name":"room584","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting584"}],"location":"marist","building":"lt"}
+,
+{"name":"room585","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting585"}],"location":"marist","building":"lt"}
+,
+{"name":"room586","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting586"}],"location":"marist","building":"lt"}
+,
+{"name":"room587","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting587"}],"location":"marist","building":"lt"}
+,
+{"name":"room588","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting588"}],"location":"marist","building":"lt"}
+,
+{"name":"room589","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting589"}],"location":"marist","building":"lt"}
+,
+{"name":"room590","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting590"}],"location":"marist","building":"lt"}
+,
+{"name":"room591","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting591"}],"location":"marist","building":"lt"}
+,
+{"name":"room592","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting592"}],"location":"marist","building":"lt"}
+,
+{"name":"room593","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting593"}],"location":"marist","building":"lt"}
+,
+{"name":"room594","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting594"}],"location":"marist","building":"lt"}
+,
+{"name":"room595","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting595"}],"location":"marist","building":"lt"}
+,
+{"name":"room596","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting596"}],"location":"marist","building":"lt"}
+,
+{"name":"room597","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting597"}],"location":"marist","building":"lt"}
+,
+{"name":"room598","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting598"}],"location":"marist","building":"lt"}
+,
+{"name":"room599","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting599"}],"location":"marist","building":"lt"}
+,
+{"name":"room600","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting600"}],"location":"marist","building":"lt"}
+,
+{"name":"room601","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting601"}],"location":"marist","building":"lt"}
+,
+{"name":"room602","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting602"}],"location":"marist","building":"lt"}
+,
+{"name":"room603","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting603"}],"location":"marist","building":"lt"}
+,
+{"name":"room604","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting604"}],"location":"marist","building":"lt"}
+,
+{"name":"room605","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting605"}],"location":"marist","building":"lt"}
+,
+{"name":"room606","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting606"}],"location":"marist","building":"lt"}
+,
+{"name":"room607","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting607"}],"location":"marist","building":"lt"}
+,
+{"name":"room608","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting608"}],"location":"marist","building":"lt"}
+,
+{"name":"room609","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting609"}],"location":"marist","building":"lt"}
+,
+{"name":"room610","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting610"}],"location":"marist","building":"lt"}
+,
+{"name":"room611","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting611"}],"location":"marist","building":"lt"}
+,
+{"name":"room612","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting612"}],"location":"marist","building":"lt"}
+,
+{"name":"room613","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting613"}],"location":"marist","building":"lt"}
+,
+{"name":"room614","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting614"}],"location":"marist","building":"lt"}
+,
+{"name":"room615","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting615"}],"location":"marist","building":"lt"}
+,
+{"name":"room616","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting616"}],"location":"marist","building":"lt"}
+,
+{"name":"room617","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting617"}],"location":"marist","building":"lt"}
+,
+{"name":"room618","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting618"}],"location":"marist","building":"lt"}
+,
+{"name":"room619","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting619"}],"location":"marist","building":"lt"}
+,
+{"name":"room620","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting620"}],"location":"marist","building":"lt"}
+,
+{"name":"room621","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting621"}],"location":"marist","building":"lt"}
+,
+{"name":"room622","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting622"}],"location":"marist","building":"lt"}
+,
+{"name":"room623","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting623"}],"location":"marist","building":"lt"}
+,
+{"name":"room624","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting624"}],"location":"marist","building":"lt"}
+,
+{"name":"room625","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting625"}],"location":"marist","building":"lt"}
+,
+{"name":"room626","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting626"}],"location":"marist","building":"lt"}
+,
+{"name":"room627","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting627"}],"location":"marist","building":"lt"}
+,
+{"name":"room628","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting628"}],"location":"marist","building":"lt"}
+,
+{"name":"room629","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting629"}],"location":"marist","building":"lt"}
+,
+{"name":"room630","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting630"}],"location":"marist","building":"lt"}
+,
+{"name":"room631","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting631"}],"location":"marist","building":"lt"}
+,
+{"name":"room632","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting632"}],"location":"marist","building":"lt"}
+,
+{"name":"room633","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting633"}],"location":"marist","building":"lt"}
+,
+{"name":"room634","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting634"}],"location":"marist","building":"lt"}
+,
+{"name":"room635","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting635"}],"location":"marist","building":"lt"}
+,
+{"name":"room636","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting636"}],"location":"marist","building":"lt"}
+,
+{"name":"room637","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting637"}],"location":"marist","building":"lt"}
+,
+{"name":"room638","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting638"}],"location":"marist","building":"lt"}
+,
+{"name":"room639","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting639"}],"location":"marist","building":"lt"}
+,
+{"name":"room640","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting640"}],"location":"marist","building":"lt"}
+,
+{"name":"room641","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting641"}],"location":"marist","building":"lt"}
+,
+{"name":"room642","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting642"}],"location":"marist","building":"lt"}
+,
+{"name":"room643","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting643"}],"location":"marist","building":"lt"}
+,
+{"name":"room644","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting644"}],"location":"marist","building":"lt"}
+,
+{"name":"room645","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting645"}],"location":"marist","building":"lt"}
+,
+{"name":"room646","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting646"}],"location":"marist","building":"lt"}
+,
+{"name":"room647","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting647"}],"location":"marist","building":"lt"}
+,
+{"name":"room648","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting648"}],"location":"marist","building":"lt"}
+,
+{"name":"room649","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting649"}],"location":"marist","building":"lt"}
+,
+{"name":"room650","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting650"}],"location":"marist","building":"lt"}
+,
+{"name":"room651","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting651"}],"location":"marist","building":"lt"}
+,
+{"name":"room652","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting652"}],"location":"marist","building":"lt"}
+,
+{"name":"room653","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting653"}],"location":"marist","building":"lt"}
+,
+{"name":"room654","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting654"}],"location":"marist","building":"lt"}
+,
+{"name":"room655","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting655"}],"location":"marist","building":"lt"}
+,
+{"name":"room656","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting656"}],"location":"marist","building":"lt"}
+,
+{"name":"room657","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting657"}],"location":"marist","building":"lt"}
+,
+{"name":"room658","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting658"}],"location":"marist","building":"lt"}
+,
+{"name":"room659","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting659"}],"location":"marist","building":"lt"}
+,
+{"name":"room660","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting660"}],"location":"marist","building":"lt"}
+,
+{"name":"room661","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting661"}],"location":"marist","building":"lt"}
+,
+{"name":"room662","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting662"}],"location":"marist","building":"lt"}
+,
+{"name":"room663","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting663"}],"location":"marist","building":"lt"}
+,
+{"name":"room664","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting664"}],"location":"marist","building":"lt"}
+,
+{"name":"room665","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting665"}],"location":"marist","building":"lt"}
+,
+{"name":"room666","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting666"}],"location":"marist","building":"lt"}
+,
+{"name":"room667","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting667"}],"location":"marist","building":"lt"}
+,
+{"name":"room668","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting668"}],"location":"marist","building":"lt"}
+,
+{"name":"room669","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting669"}],"location":"marist","building":"lt"}
+,
+{"name":"room670","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting670"}],"location":"marist","building":"lt"}
+,
+{"name":"room671","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting671"}],"location":"marist","building":"lt"}
+,
+{"name":"room672","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting672"}],"location":"marist","building":"lt"}
+,
+{"name":"room673","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting673"}],"location":"marist","building":"lt"}
+,
+{"name":"room674","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting674"}],"location":"marist","building":"lt"}
+,
+{"name":"room675","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting675"}],"location":"marist","building":"lt"}
+,
+{"name":"room676","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting676"}],"location":"marist","building":"lt"}
+,
+{"name":"room677","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting677"}],"location":"marist","building":"lt"}
+,
+{"name":"room678","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting678"}],"location":"marist","building":"lt"}
+,
+{"name":"room679","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting679"}],"location":"marist","building":"lt"}
+,
+{"name":"room680","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting680"}],"location":"marist","building":"lt"}
+,
+{"name":"room681","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting681"}],"location":"marist","building":"lt"}
+,
+{"name":"room682","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting682"}],"location":"marist","building":"lt"}
+,
+{"name":"room683","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting683"}],"location":"marist","building":"lt"}
+,
+{"name":"room684","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting684"}],"location":"marist","building":"lt"}
+,
+{"name":"room685","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting685"}],"location":"marist","building":"lt"}
+,
+{"name":"room686","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting686"}],"location":"marist","building":"lt"}
+,
+{"name":"room687","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting687"}],"location":"marist","building":"lt"}
+,
+{"name":"room688","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting688"}],"location":"marist","building":"lt"}
+,
+{"name":"room689","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting689"}],"location":"marist","building":"lt"}
+,
+{"name":"room690","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting690"}],"location":"marist","building":"lt"}
+,
+{"name":"room691","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting691"}],"location":"marist","building":"lt"}
+,
+{"name":"room692","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting692"}],"location":"marist","building":"lt"}
+,
+{"name":"room693","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting693"}],"location":"marist","building":"lt"}
+,
+{"name":"room694","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting694"}],"location":"marist","building":"lt"}
+,
+{"name":"room695","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting695"}],"location":"marist","building":"lt"}
+,
+{"name":"room696","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting696"}],"location":"marist","building":"lt"}
+,
+{"name":"room697","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting697"}],"location":"marist","building":"lt"}
+,
+{"name":"room698","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting698"}],"location":"marist","building":"lt"}
+,
+{"name":"room699","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting699"}],"location":"marist","building":"lt"}
+,
+{"name":"room700","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting700"}],"location":"marist","building":"lt"}
+,
+{"name":"room701","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting701"}],"location":"marist","building":"lt"}
+,
+{"name":"room702","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting702"}],"location":"marist","building":"lt"}
+,
+{"name":"room703","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting703"}],"location":"marist","building":"lt"}
+,
+{"name":"room704","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting704"}],"location":"marist","building":"lt"}
+,
+{"name":"room705","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting705"}],"location":"marist","building":"lt"}
+,
+{"name":"room706","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting706"}],"location":"marist","building":"lt"}
+,
+{"name":"room707","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting707"}],"location":"marist","building":"lt"}
+,
+{"name":"room708","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting708"}],"location":"marist","building":"lt"}
+,
+{"name":"room709","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting709"}],"location":"marist","building":"lt"}
+,
+{"name":"room710","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting710"}],"location":"marist","building":"lt"}
+,
+{"name":"room711","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting711"}],"location":"marist","building":"lt"}
+,
+{"name":"room712","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting712"}],"location":"marist","building":"lt"}
+,
+{"name":"room713","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting713"}],"location":"marist","building":"lt"}
+,
+{"name":"room714","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting714"}],"location":"marist","building":"lt"}
+,
+{"name":"room715","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting715"}],"location":"marist","building":"lt"}
+,
+{"name":"room716","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting716"}],"location":"marist","building":"lt"}
+,
+{"name":"room717","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting717"}],"location":"marist","building":"lt"}
+,
+{"name":"room718","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting718"}],"location":"marist","building":"lt"}
+,
+{"name":"room719","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting719"}],"location":"marist","building":"lt"}
+,
+{"name":"room720","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting720"}],"location":"marist","building":"lt"}
+,
+{"name":"room721","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting721"}],"location":"marist","building":"lt"}
+,
+{"name":"room722","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting722"}],"location":"marist","building":"lt"}
+,
+{"name":"room723","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting723"}],"location":"marist","building":"lt"}
+,
+{"name":"room724","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting724"}],"location":"marist","building":"lt"}
+,
+{"name":"room725","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting725"}],"location":"marist","building":"lt"}
+,
+{"name":"room726","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting726"}],"location":"marist","building":"lt"}
+,
+{"name":"room727","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting727"}],"location":"marist","building":"lt"}
+,
+{"name":"room728","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting728"}],"location":"marist","building":"lt"}
+,
+{"name":"room729","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting729"}],"location":"marist","building":"lt"}
+,
+{"name":"room730","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting730"}],"location":"marist","building":"lt"}
+,
+{"name":"room731","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting731"}],"location":"marist","building":"lt"}
+,
+{"name":"room732","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting732"}],"location":"marist","building":"lt"}
+,
+{"name":"room733","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting733"}],"location":"marist","building":"lt"}
+,
+{"name":"room734","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting734"}],"location":"marist","building":"lt"}
+,
+{"name":"room735","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting735"}],"location":"marist","building":"lt"}
+,
+{"name":"room736","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting736"}],"location":"marist","building":"lt"}
+,
+{"name":"room737","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting737"}],"location":"marist","building":"lt"}
+,
+{"name":"room738","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting738"}],"location":"marist","building":"lt"}
+,
+{"name":"room739","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting739"}],"location":"marist","building":"lt"}
+,
+{"name":"room740","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting740"}],"location":"marist","building":"lt"}
+,
+{"name":"room741","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting741"}],"location":"marist","building":"lt"}
+,
+{"name":"room742","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting742"}],"location":"marist","building":"lt"}
+,
+{"name":"room743","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting743"}],"location":"marist","building":"lt"}
+,
+{"name":"room744","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting744"}],"location":"marist","building":"lt"}
+,
+{"name":"room745","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting745"}],"location":"marist","building":"lt"}
+,
+{"name":"room746","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting746"}],"location":"marist","building":"lt"}
+,
+{"name":"room747","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting747"}],"location":"marist","building":"lt"}
+,
+{"name":"room748","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting748"}],"location":"marist","building":"lt"}
+,
+{"name":"room749","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting749"}],"location":"marist","building":"lt"}
+,
+{"name":"room750","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting750"}],"location":"marist","building":"lt"}
+,
+{"name":"room751","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting751"}],"location":"marist","building":"lt"}
+,
+{"name":"room752","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting752"}],"location":"marist","building":"lt"}
+,
+{"name":"room753","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting753"}],"location":"marist","building":"lt"}
+,
+{"name":"room754","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting754"}],"location":"marist","building":"lt"}
+,
+{"name":"room755","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting755"}],"location":"marist","building":"lt"}
+,
+{"name":"room756","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting756"}],"location":"marist","building":"lt"}
+,
+{"name":"room757","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting757"}],"location":"marist","building":"lt"}
+,
+{"name":"room758","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting758"}],"location":"marist","building":"lt"}
+,
+{"name":"room759","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting759"}],"location":"marist","building":"lt"}
+,
+{"name":"room760","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting760"}],"location":"marist","building":"lt"}
+,
+{"name":"room761","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting761"}],"location":"marist","building":"lt"}
+,
+{"name":"room762","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting762"}],"location":"marist","building":"lt"}
+,
+{"name":"room763","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting763"}],"location":"marist","building":"lt"}
+,
+{"name":"room764","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting764"}],"location":"marist","building":"lt"}
+,
+{"name":"room765","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting765"}],"location":"marist","building":"lt"}
+,
+{"name":"room766","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting766"}],"location":"marist","building":"lt"}
+,
+{"name":"room767","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting767"}],"location":"marist","building":"lt"}
+,
+{"name":"room768","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting768"}],"location":"marist","building":"lt"}
+,
+{"name":"room769","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting769"}],"location":"marist","building":"lt"}
+,
+{"name":"room770","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting770"}],"location":"marist","building":"lt"}
+,
+{"name":"room771","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting771"}],"location":"marist","building":"lt"}
+,
+{"name":"room772","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting772"}],"location":"marist","building":"lt"}
+,
+{"name":"room773","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting773"}],"location":"marist","building":"lt"}
+,
+{"name":"room774","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting774"}],"location":"marist","building":"lt"}
+,
+{"name":"room775","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting775"}],"location":"marist","building":"lt"}
+,
+{"name":"room776","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting776"}],"location":"marist","building":"lt"}
+,
+{"name":"room777","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting777"}],"location":"marist","building":"lt"}
+,
+{"name":"room778","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting778"}],"location":"marist","building":"lt"}
+,
+{"name":"room779","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting779"}],"location":"marist","building":"lt"}
+,
+{"name":"room780","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting780"}],"location":"marist","building":"lt"}
+,
+{"name":"room781","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting781"}],"location":"marist","building":"lt"}
+,
+{"name":"room782","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting782"}],"location":"marist","building":"lt"}
+,
+{"name":"room783","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting783"}],"location":"marist","building":"lt"}
+,
+{"name":"room784","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting784"}],"location":"marist","building":"lt"}
+,
+{"name":"room785","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting785"}],"location":"marist","building":"lt"}
+,
+{"name":"room786","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting786"}],"location":"marist","building":"lt"}
+,
+{"name":"room787","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting787"}],"location":"marist","building":"lt"}
+,
+{"name":"room788","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting788"}],"location":"marist","building":"lt"}
+,
+{"name":"room789","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting789"}],"location":"marist","building":"lt"}
+,
+{"name":"room790","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting790"}],"location":"marist","building":"lt"}
+,
+{"name":"room791","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting791"}],"location":"marist","building":"lt"}
+,
+{"name":"room792","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting792"}],"location":"marist","building":"lt"}
+,
+{"name":"room793","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting793"}],"location":"marist","building":"lt"}
+,
+{"name":"room794","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting794"}],"location":"marist","building":"lt"}
+,
+{"name":"room795","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting795"}],"location":"marist","building":"lt"}
+,
+{"name":"room796","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting796"}],"location":"marist","building":"lt"}
+,
+{"name":"room797","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting797"}],"location":"marist","building":"lt"}
+,
+{"name":"room798","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting798"}],"location":"marist","building":"lt"}
+,
+{"name":"room799","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting799"}],"location":"marist","building":"lt"}
+,
+{"name":"room800","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting800"}],"location":"marist","building":"lt"}
+,
+{"name":"room801","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting801"}],"location":"marist","building":"lt"}
+,
+{"name":"room802","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting802"}],"location":"marist","building":"lt"}
+,
+{"name":"room803","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting803"}],"location":"marist","building":"lt"}
+,
+{"name":"room804","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting804"}],"location":"marist","building":"lt"}
+,
+{"name":"room805","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting805"}],"location":"marist","building":"lt"}
+,
+{"name":"room806","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting806"}],"location":"marist","building":"lt"}
+,
+{"name":"room807","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting807"}],"location":"marist","building":"lt"}
+,
+{"name":"room808","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting808"}],"location":"marist","building":"lt"}
+,
+{"name":"room809","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting809"}],"location":"marist","building":"lt"}
+,
+{"name":"room810","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting810"}],"location":"marist","building":"lt"}
+,
+{"name":"room811","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting811"}],"location":"marist","building":"lt"}
+,
+{"name":"room812","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting812"}],"location":"marist","building":"lt"}
+,
+{"name":"room813","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting813"}],"location":"marist","building":"lt"}
+,
+{"name":"room814","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting814"}],"location":"marist","building":"lt"}
+,
+{"name":"room815","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting815"}],"location":"marist","building":"lt"}
+,
+{"name":"room816","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting816"}],"location":"marist","building":"lt"}
+,
+{"name":"room817","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting817"}],"location":"marist","building":"lt"}
+,
+{"name":"room818","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting818"}],"location":"marist","building":"lt"}
+,
+{"name":"room819","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting819"}],"location":"marist","building":"lt"}
+,
+{"name":"room820","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting820"}],"location":"marist","building":"lt"}
+,
+{"name":"room821","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting821"}],"location":"marist","building":"lt"}
+,
+{"name":"room822","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting822"}],"location":"marist","building":"lt"}
+,
+{"name":"room823","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting823"}],"location":"marist","building":"lt"}
+,
+{"name":"room824","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting824"}],"location":"marist","building":"lt"}
+,
+{"name":"room825","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting825"}],"location":"marist","building":"lt"}
+,
+{"name":"room826","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting826"}],"location":"marist","building":"lt"}
+,
+{"name":"room827","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting827"}],"location":"marist","building":"lt"}
+,
+{"name":"room828","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting828"}],"location":"marist","building":"lt"}
+,
+{"name":"room829","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting829"}],"location":"marist","building":"lt"}
+,
+{"name":"room830","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting830"}],"location":"marist","building":"lt"}
+,
+{"name":"room831","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting831"}],"location":"marist","building":"lt"}
+,
+{"name":"room832","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting832"}],"location":"marist","building":"lt"}
+,
+{"name":"room833","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting833"}],"location":"marist","building":"lt"}
+,
+{"name":"room834","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting834"}],"location":"marist","building":"lt"}
+,
+{"name":"room835","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting835"}],"location":"marist","building":"lt"}
+,
+{"name":"room836","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting836"}],"location":"marist","building":"lt"}
+,
+{"name":"room837","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting837"}],"location":"marist","building":"lt"}
+,
+{"name":"room838","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting838"}],"location":"marist","building":"lt"}
+,
+{"name":"room839","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting839"}],"location":"marist","building":"lt"}
+,
+{"name":"room840","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting840"}],"location":"marist","building":"lt"}
+,
+{"name":"room841","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting841"}],"location":"marist","building":"lt"}
+,
+{"name":"room842","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting842"}],"location":"marist","building":"lt"}
+,
+{"name":"room843","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting843"}],"location":"marist","building":"lt"}
+,
+{"name":"room844","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting844"}],"location":"marist","building":"lt"}
+,
+{"name":"room845","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting845"}],"location":"marist","building":"lt"}
+,
+{"name":"room846","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting846"}],"location":"marist","building":"lt"}
+,
+{"name":"room847","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting847"}],"location":"marist","building":"lt"}
+,
+{"name":"room848","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting848"}],"location":"marist","building":"lt"}
+,
+{"name":"room849","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting849"}],"location":"marist","building":"lt"}
+,
+{"name":"room850","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting850"}],"location":"marist","building":"lt"}
+,
+{"name":"room851","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting851"}],"location":"marist","building":"lt"}
+,
+{"name":"room852","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting852"}],"location":"marist","building":"lt"}
+,
+{"name":"room853","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting853"}],"location":"marist","building":"lt"}
+,
+{"name":"room854","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting854"}],"location":"marist","building":"lt"}
+,
+{"name":"room855","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting855"}],"location":"marist","building":"lt"}
+,
+{"name":"room856","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting856"}],"location":"marist","building":"lt"}
+,
+{"name":"room857","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting857"}],"location":"marist","building":"lt"}
+,
+{"name":"room858","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting858"}],"location":"marist","building":"lt"}
+,
+{"name":"room859","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting859"}],"location":"marist","building":"lt"}
+,
+{"name":"room860","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting860"}],"location":"marist","building":"lt"}
+,
+{"name":"room861","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting861"}],"location":"marist","building":"lt"}
+,
+{"name":"room862","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting862"}],"location":"marist","building":"lt"}
+,
+{"name":"room863","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting863"}],"location":"marist","building":"lt"}
+,
+{"name":"room864","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting864"}],"location":"marist","building":"lt"}
+,
+{"name":"room865","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting865"}],"location":"marist","building":"lt"}
+,
+{"name":"room866","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting866"}],"location":"marist","building":"lt"}
+,
+{"name":"room867","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting867"}],"location":"marist","building":"lt"}
+,
+{"name":"room868","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting868"}],"location":"marist","building":"lt"}
+,
+{"name":"room869","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting869"}],"location":"marist","building":"lt"}
+,
+{"name":"room870","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting870"}],"location":"marist","building":"lt"}
+,
+{"name":"room871","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting871"}],"location":"marist","building":"lt"}
+,
+{"name":"room872","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting872"}],"location":"marist","building":"lt"}
+,
+{"name":"room873","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting873"}],"location":"marist","building":"lt"}
+,
+{"name":"room874","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting874"}],"location":"marist","building":"lt"}
+,
+{"name":"room875","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting875"}],"location":"marist","building":"lt"}
+,
+{"name":"room876","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting876"}],"location":"marist","building":"lt"}
+,
+{"name":"room877","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting877"}],"location":"marist","building":"lt"}
+,
+{"name":"room878","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting878"}],"location":"marist","building":"lt"}
+,
+{"name":"room879","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting879"}],"location":"marist","building":"lt"}
+,
+{"name":"room880","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting880"}],"location":"marist","building":"lt"}
+,
+{"name":"room881","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting881"}],"location":"marist","building":"lt"}
+,
+{"name":"room882","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting882"}],"location":"marist","building":"lt"}
+,
+{"name":"room883","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting883"}],"location":"marist","building":"lt"}
+,
+{"name":"room884","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting884"}],"location":"marist","building":"lt"}
+,
+{"name":"room885","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting885"}],"location":"marist","building":"lt"}
+,
+{"name":"room886","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting886"}],"location":"marist","building":"lt"}
+,
+{"name":"room887","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting887"}],"location":"marist","building":"lt"}
+,
+{"name":"room888","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting888"}],"location":"marist","building":"lt"}
+,
+{"name":"room889","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting889"}],"location":"marist","building":"lt"}
+,
+{"name":"room890","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting890"}],"location":"marist","building":"lt"}
+,
+{"name":"room891","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting891"}],"location":"marist","building":"lt"}
+,
+{"name":"room892","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting892"}],"location":"marist","building":"lt"}
+,
+{"name":"room893","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting893"}],"location":"marist","building":"lt"}
+,
+{"name":"room894","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting894"}],"location":"marist","building":"lt"}
+,
+{"name":"room895","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting895"}],"location":"marist","building":"lt"}
+,
+{"name":"room896","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting896"}],"location":"marist","building":"lt"}
+,
+{"name":"room897","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting897"}],"location":"marist","building":"lt"}
+,
+{"name":"room898","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting898"}],"location":"marist","building":"lt"}
+,
+{"name":"room899","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting899"}],"location":"marist","building":"lt"}
+,
+{"name":"room900","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting900"}],"location":"marist","building":"lt"}
+,
+{"name":"room901","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting901"}],"location":"marist","building":"lt"}
+,
+{"name":"room902","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting902"}],"location":"marist","building":"lt"}
+,
+{"name":"room903","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting903"}],"location":"marist","building":"lt"}
+,
+{"name":"room904","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting904"}],"location":"marist","building":"lt"}
+,
+{"name":"room905","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting905"}],"location":"marist","building":"lt"}
+,
+{"name":"room906","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting906"}],"location":"marist","building":"lt"}
+,
+{"name":"room907","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting907"}],"location":"marist","building":"lt"}
+,
+{"name":"room908","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting908"}],"location":"marist","building":"lt"}
+,
+{"name":"room909","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting909"}],"location":"marist","building":"lt"}
+,
+{"name":"room910","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting910"}],"location":"marist","building":"lt"}
+,
+{"name":"room911","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting911"}],"location":"marist","building":"lt"}
+,
+{"name":"room912","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting912"}],"location":"marist","building":"lt"}
+,
+{"name":"room913","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting913"}],"location":"marist","building":"lt"}
+,
+{"name":"room914","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting914"}],"location":"marist","building":"lt"}
+,
+{"name":"room915","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting915"}],"location":"marist","building":"lt"}
+,
+{"name":"room916","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting916"}],"location":"marist","building":"lt"}
+,
+{"name":"room917","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting917"}],"location":"marist","building":"lt"}
+,
+{"name":"room918","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting918"}],"location":"marist","building":"lt"}
+,
+{"name":"room919","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting919"}],"location":"marist","building":"lt"}
+,
+{"name":"room920","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting920"}],"location":"marist","building":"lt"}
+,
+{"name":"room921","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting921"}],"location":"marist","building":"lt"}
+,
+{"name":"room922","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting922"}],"location":"marist","building":"lt"}
+,
+{"name":"room923","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting923"}],"location":"marist","building":"lt"}
+,
+{"name":"room924","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting924"}],"location":"marist","building":"lt"}
+,
+{"name":"room925","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting925"}],"location":"marist","building":"lt"}
+,
+{"name":"room926","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting926"}],"location":"marist","building":"lt"}
+,
+{"name":"room927","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting927"}],"location":"marist","building":"lt"}
+,
+{"name":"room928","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting928"}],"location":"marist","building":"lt"}
+,
+{"name":"room929","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting929"}],"location":"marist","building":"lt"}
+,
+{"name":"room930","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting930"}],"location":"marist","building":"lt"}
+,
+{"name":"room931","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting931"}],"location":"marist","building":"lt"}
+,
+{"name":"room932","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting932"}],"location":"marist","building":"lt"}
+,
+{"name":"room933","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting933"}],"location":"marist","building":"lt"}
+,
+{"name":"room934","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting934"}],"location":"marist","building":"lt"}
+,
+{"name":"room935","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting935"}],"location":"marist","building":"lt"}
+,
+{"name":"room936","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting936"}],"location":"marist","building":"lt"}
+,
+{"name":"room937","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting937"}],"location":"marist","building":"lt"}
+,
+{"name":"room938","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting938"}],"location":"marist","building":"lt"}
+,
+{"name":"room939","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting939"}],"location":"marist","building":"lt"}
+,
+{"name":"room940","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting940"}],"location":"marist","building":"lt"}
+,
+{"name":"room941","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting941"}],"location":"marist","building":"lt"}
+,
+{"name":"room942","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting942"}],"location":"marist","building":"lt"}
+,
+{"name":"room943","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting943"}],"location":"marist","building":"lt"}
+,
+{"name":"room944","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting944"}],"location":"marist","building":"lt"}
+,
+{"name":"room945","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting945"}],"location":"marist","building":"lt"}
+,
+{"name":"room946","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting946"}],"location":"marist","building":"lt"}
+,
+{"name":"room947","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting947"}],"location":"marist","building":"lt"}
+,
+{"name":"room948","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting948"}],"location":"marist","building":"lt"}
+,
+{"name":"room949","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting949"}],"location":"marist","building":"lt"}
+,
+{"name":"room950","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting950"}],"location":"marist","building":"lt"}
+,
+{"name":"room951","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting951"}],"location":"marist","building":"lt"}
+,
+{"name":"room952","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting952"}],"location":"marist","building":"lt"}
+,
+{"name":"room953","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting953"}],"location":"marist","building":"lt"}
+,
+{"name":"room954","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting954"}],"location":"marist","building":"lt"}
+,
+{"name":"room955","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting955"}],"location":"marist","building":"lt"}
+,
+{"name":"room956","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting956"}],"location":"marist","building":"lt"}
+,
+{"name":"room957","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting957"}],"location":"marist","building":"lt"}
+,
+{"name":"room958","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting958"}],"location":"marist","building":"lt"}
+,
+{"name":"room959","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting959"}],"location":"marist","building":"lt"}
+,
+{"name":"room960","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting960"}],"location":"marist","building":"lt"}
+,
+{"name":"room961","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting961"}],"location":"marist","building":"lt"}
+,
+{"name":"room962","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting962"}],"location":"marist","building":"lt"}
+,
+{"name":"room963","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting963"}],"location":"marist","building":"lt"}
+,
+{"name":"room964","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting964"}],"location":"marist","building":"lt"}
+,
+{"name":"room965","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting965"}],"location":"marist","building":"lt"}
+,
+{"name":"room966","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting966"}],"location":"marist","building":"lt"}
+,
+{"name":"room967","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting967"}],"location":"marist","building":"lt"}
+,
+{"name":"room968","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting968"}],"location":"marist","building":"lt"}
+,
+{"name":"room969","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting969"}],"location":"marist","building":"lt"}
+,
+{"name":"room970","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting970"}],"location":"marist","building":"lt"}
+,
+{"name":"room971","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting971"}],"location":"marist","building":"lt"}
+,
+{"name":"room972","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting972"}],"location":"marist","building":"lt"}
+,
+{"name":"room973","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting973"}],"location":"marist","building":"lt"}
+,
+{"name":"room974","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting974"}],"location":"marist","building":"lt"}
+,
+{"name":"room975","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting975"}],"location":"marist","building":"lt"}
+,
+{"name":"room976","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting976"}],"location":"marist","building":"lt"}
+,
+{"name":"room977","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting977"}],"location":"marist","building":"lt"}
+,
+{"name":"room978","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting978"}],"location":"marist","building":"lt"}
+,
+{"name":"room979","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting979"}],"location":"marist","building":"lt"}
+,
+{"name":"room980","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting980"}],"location":"marist","building":"lt"}
+,
+{"name":"room981","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting981"}],"location":"marist","building":"lt"}
+,
+{"name":"room982","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting982"}],"location":"marist","building":"lt"}
+,
+{"name":"room983","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting983"}],"location":"marist","building":"lt"}
+,
+{"name":"room984","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting984"}],"location":"marist","building":"lt"}
+,
+{"name":"room985","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting985"}],"location":"marist","building":"lt"}
+,
+{"name":"room986","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting986"}],"location":"marist","building":"lt"}
+,
+{"name":"room987","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting987"}],"location":"marist","building":"lt"}
+,
+{"name":"room988","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting988"}],"location":"marist","building":"lt"}
+,
+{"name":"room989","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting989"}],"location":"marist","building":"lt"}
+,
+{"name":"room990","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting990"}],"location":"marist","building":"lt"}
+,
+{"name":"room991","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting991"}],"location":"marist","building":"lt"}
+,
+{"name":"room992","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting992"}],"location":"marist","building":"lt"}
+,
+{"name":"room993","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting993"}],"location":"marist","building":"lt"}
+,
+{"name":"room994","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting994"}],"location":"marist","building":"lt"}
+,
+{"name":"room995","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting995"}],"location":"marist","building":"lt"}
+,
+{"name":"room996","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting996"}],"location":"marist","building":"lt"}
+,
+{"name":"room997","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting997"}],"location":"marist","building":"lt"}
+,
+{"name":"room998","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting998"}],"location":"marist","building":"lt"}
+,
+{"name":"room999","capacity":12,"meetings":[{"startTime":1480699260000,"stopTime":1480959240000,"subject":"long meeting999"}],"location":"marist","building":"lt"}
+]
