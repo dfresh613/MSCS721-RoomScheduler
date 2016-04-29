@@ -1,3 +1,9 @@
+/**
+   * Douglas Rohde License
+   * This is an example license used throughout RoomScheduler
+   * Other possible licenses to use include Apache, GPL, etc...
+   * More license text.
+   */
 package com.marist.mscs721;
 
 import java.sql.Timestamp;
